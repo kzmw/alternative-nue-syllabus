@@ -27836,5 +27836,10 @@ function change() {
             }
         }
     }
+    if(table=='<tr><th>時間割番号</th><th>科目名</th><th>開講期間</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>'){
+    document.getElementById('data_content').innerHTML = '<table><tr><th>時間割番号</th><th>科目名</th><th>開講期間</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></table><tr><td colspan="6">検索結果はありません</td></tr>';
+    }
+    else{
     document.getElementById('data_content').innerHTML = '<table>' + table + '</table>';
+    }
 }
