@@ -50,7 +50,7 @@ header input[type="tel"] {
     border-top: none;
     color: #fff;
     text-align: center;
-    font-weight: normal;
+    font-weight: bold;
     padding: 0.2rem;
     background: rgb(0, 155, 229);
 }
