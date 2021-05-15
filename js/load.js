@@ -27783,7 +27783,7 @@ function change() {
             }
         ]
     }
-    var table = '<tr><th>時間割番号</th><th>科目名</th><th>開講期間</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
+    var table = '<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
     for (var i = 0; i < data["subject"].length; i++) {
         if (data["subject"][i]["tt_num"].indexOf(tt_num) != -1) {
             if (data["subject"][i]["name"].indexOf(name) != -1) {
