@@ -13868,7 +13868,7 @@ window.onload = function() {
             }
         ]
     }
-    var table = '<tr><th>時間割番号</th><th>科目名</th><th>開講期間</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
+    var table = '<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
     for (var i = 0; i < data["subject"].length; i++) {
         var period;
         var teacher;
@@ -27836,7 +27836,7 @@ function change() {
             }
         }
     }
-    if(table=='<tr><th>時間割番号</th><th>科目名</th><th>開講期間</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>'){
+    if(table=='<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>'){
     document.getElementById('data_content').innerHTML = '<table><tr><th>時間割番号</th><th>科目名</th><th>開講期間</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></table><tr><td colspan="6">検索結果はありません</td></tr>';
     }
     else{
