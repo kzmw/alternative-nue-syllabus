@@ -13,9 +13,6 @@ header{
   height:50px;
   z-index:2;
   border:none;
-  postion: -webkit-sticky;
-  position: sticky;
-  top:0;
 }
 
 .header_content{
