@@ -87,7 +87,7 @@ input[type="tel"] {
     padding: 0.2rem;
 }
 
-#data_content table tr:nth-child(even) td {
+#data_content table tr:nth-child(odd) td {
 	background: #eee;
 }
 
