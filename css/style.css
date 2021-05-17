@@ -32,7 +32,7 @@ vertical-align: middle;
 white-space: nowrap;
 }
 
-header input[type="text"] {
+input[type="text"] {
     height: 1.8rem;
     line-height: 1.8rem;
     padding: 0 0.4rem;
@@ -44,7 +44,7 @@ header input[type="text"] {
     -webkit-appearance: none;
 }
 
-header input[type="tel"] {
+input[type="tel"] {
     height: 1.8rem;
     line-height: 1.8rem;
     padding: 0 0.4rem;
