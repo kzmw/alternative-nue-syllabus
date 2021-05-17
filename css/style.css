@@ -79,11 +79,16 @@ input[type="tel"] {
 }
 
 #data_content td {
+    background: #fff;
     border-left: none;
     border-right: none;
     border-top: none;
     border-bottom: solid 1px #ccc;
     padding: 0.2rem;
+}
+
+#data_content table tr:nth-child(even) td {
+	background: #eee;
 }
 
 a.syllabus {
