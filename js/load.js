@@ -27783,6 +27783,7 @@ function change() {
             }
         ]
     }
+    var count = 0;
     var table = '<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
     for (var i = 0; i < data["subject"].length; i++) {
         if (data["subject"][i]["tt_num"].indexOf(tt_num) != -1) {
@@ -27806,6 +27807,7 @@ function change() {
                             }
                         }
                         table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                        count += 1;
                     } else {
                         period_loop: for (var m = 0; m < period_arr.length; m++) {
                             for (var n = 0; n < data["subject"][i]["period"].length; n++) {
@@ -27827,6 +27829,7 @@ function change() {
                                         }
                                     }
                                     table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                    count += 1;
                                     break period_loop
                                 }
                             }
@@ -27837,9 +27840,9 @@ function change() {
         }
     }
     if(table=='<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>'){
-    document.getElementById('data_content').innerHTML = '<table><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></table><tr><td colspan="6">検索結果はありません</td></tr>';
+    document.getElementById('data_content').innerHTML = '検索結果はありません';
     }
     else{
-    document.getElementById('data_content').innerHTML = '<table>' + table + '</table>';
+    document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table>' + table + '</table>';
     }
 }
