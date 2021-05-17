@@ -64,7 +64,6 @@ header input[type="tel"] {
     border: none;
     border-spacing: none;
     table-layout: fixed;
-    overflow-x: scroll;
     border-collapse: collapse;
 }
 
