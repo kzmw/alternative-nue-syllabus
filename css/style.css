@@ -7,6 +7,18 @@ header {
     width: 100%;
     background: linear-gradient(90deg, rgba(0, 155, 229, 0.2), rgba(255, 255, 255, 1) 20%);
 }
+.hptitle{
+display: table-cell;
+background: #FFF;
+box-shadow:0 2px 5px rgba(0,0,0,.7);
+width:100%;
+font-size:4.72vw; 
+height:50px;
+line-height: 4.72vw;
+font-weight:700;
+vertical-align: middle;
+white-space: nowrap;
+}
 
 header input[type="text"] {
     height: 1.8rem;
