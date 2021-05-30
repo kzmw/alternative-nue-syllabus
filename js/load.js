@@ -13947,7 +13947,7 @@ function change() {
                         }
                         else {
                             for (var p=0;p<data["subject"][i]["teacher"].length; p++){
-                                if (data["subject"][i]["teacher"][p].indexOf(teacher) != -1){
+                                if (data["subject"][i]["teacher"][p].indexOf(teacher_search) != -1){
                                     for (var j = 0; j < data["subject"][i]["period"].length; j++) {
                             if (j == 0) {
                                 period = data["subject"][i]["period"][j]
