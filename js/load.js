@@ -13895,8 +13895,9 @@ window.onload = function() {
 }
 
 function change() {
-    const tt_num = "G" + document.getElementById('tt_num').value
-    const name = document.getElementById('name').value
+    const tt_num = "G" + document.getElementById('tt_num').value;
+    const name = document.getElementById('name').value;
+    const teacher_search = document.getElementById('teacher').value;
     let semester_elements = document.getElementsByName('semester');
     let len = semester_elements.length;
     let semester = '';
@@ -13924,6 +13925,7 @@ function change() {
             if (data["subject"][i]["name"].indexOf(name) != -1) {
                 if (data["subject"][i]["semester"].indexOf(semester) != -1) {
                     if (period_arr.length == 0) {
+                        if (teacher_search == ""){
                         var period;
                         var teacher;
                         for (var j = 0; j < data["subject"][i]["period"].length; j++) {
@@ -13942,6 +13944,30 @@ function change() {
                         }
                         table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
                         count += 1;
+                        }
+                        else {
+                            for (var p=0;p<data["subject"][i]["teacher"].length; p++){
+                                if (data["subject"][i]["teacher"][p].indexOf(teacher) != -1){
+                                    for (var j = 0; j < data["subject"][i]["period"].length; j++) {
+                            if (j == 0) {
+                                period = data["subject"][i]["period"][j]
+                            } else {
+                                period += "，" + data["subject"][i]["period"][j]
+                            }
+                        }
+                        for (var k = 0; k < data["subject"][i]["teacher"].length; k++) {
+                            if (k == 0) {
+                                teacher = data["subject"][i]["teacher"][k]
+                            } else {
+                                teacher += "<br>" + data["subject"][i]["teacher"][k]
+                            }
+                        }
+                        table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                        count += 1;
+                                    break}
+                            }
+                        }
+                        
                     } else {
                         period_loop: for (var m = 0; m < period_arr.length; m++) {
                             for (var n = 0; n < data["subject"][i]["period"].length; n++) {
