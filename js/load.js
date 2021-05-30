@@ -13895,37 +13895,37 @@ window.onload = function() {
 }
 
 function change() {
-    const tt_num = "G" + document.getElementById('tt_num').value;
-    const name = document.getElementById('name').value;
-    const teacher_search = document.getElementById('teacher').value;
-    let semester_elements = document.getElementsByName('semester');
-    let len = semester_elements.length;
-    let semester = '';
-    for (let l = 0; l < len; l++) {
-        if (semester_elements.item(l).checked) {
-            semester = semester_elements.item(l).value;
-        }
+const tt_num = "G" + document.getElementById('tt_num').value;
+const name = document.getElementById('name').value;
+const teacher_search = document.getElementById('teacher').value;
+let semester_elements = document.getElementsByName('semester');
+let len = semester_elements.length;
+let semester = '';
+for (let l = 0; l < len; l++) {
+    if (semester_elements.item(l).checked) {
+        semester = semester_elements.item(l).value;
     }
-    if (semester == "すべて") {
-        semester = ""
-    }
-    const period_arr = [];
-    const period_element = document.getElementsByName('period');
+}
+if (semester == "すべて") {
+    semester = ""
+}
+const period_arr = [];
+const period_element = document.getElementsByName('period');
 
-    for (let i = 0; i < period_element.length; i++) {
-        if (period_element[i].checked) {
-            period_arr.push(period_element[i].value);
-        }
+for (let i = 0; i < period_element.length; i++) {
+    if (period_element[i].checked) {
+        period_arr.push(period_element[i].value);
     }
+}
 
-    var count = 0;
-    var table = '<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
-    for (var i = 0; i < data["subject"].length; i++) {
-        if (data["subject"][i]["tt_num"].indexOf(tt_num) != -1) {
-            if (data["subject"][i]["name"].indexOf(name) != -1) {
-                if (data["subject"][i]["semester"].indexOf(semester) != -1) {
-                    if (period_arr.length == 0) {
-                        if (teacher_search == ""){
+var count = 0;
+var table = '<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
+for (var i = 0; i < data["subject"].length; i++) {
+    if (data["subject"][i]["tt_num"].indexOf(tt_num) != -1) {
+        if (data["subject"][i]["name"].indexOf(name) != -1) {
+            if (data["subject"][i]["semester"].indexOf(semester) != -1) {
+                if (period_arr.length == 0) {
+                    if (teacher_search == "") {
                         var period;
                         var teacher;
                         for (var j = 0; j < data["subject"][i]["period"].length; j++) {
@@ -13944,53 +13944,56 @@ function change() {
                         }
                         table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
                         count += 1;
-                        }
-                        else {
-                            for (var p=0;p<data["subject"][i]["teacher"].length; p++){
-                                if (data["subject"][i]["teacher"][p].indexOf(teacher_search) != -1){
-                                    for (var j = 0; j < data["subject"][i]["period"].length; j++) {
-                            if (j == 0) {
-                                period = data["subject"][i]["period"][j]
-                            } else {
-                                period += "，" + data["subject"][i]["period"][j]
-                            }
-                        }
-                        for (var k = 0; k < data["subject"][i]["teacher"].length; k++) {
-                            if (k == 0) {
-                                teacher = data["subject"][i]["teacher"][k]
-                            } else {
-                                teacher += "<br>" + data["subject"][i]["teacher"][k]
-                            }
-                        }
-                        table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
-                        count += 1;
-                                    break}
-                            }
-                        }
-                        
                     } else {
-                        period_loop: for (var m = 0; m < period_arr.length; m++) {
-                            for (var n = 0; n < data["subject"][i]["period"].length; n++) {
-                                if (period_arr[m] == data["subject"][i]["period"][n]) {
-                                    var period;
-                                    var teacher;
-                                    for (var j = 0; j < data["subject"][i]["period"].length; j++) {
-                                        if (j == 0) {
-                                            period = data["subject"][i]["period"][j]
-                                        } else {
-                                            period += "，" + data["subject"][i]["period"][j]
-                                        }
+                        for (var p = 0; p < data["subject"][i]["teacher"].length; p++) {
+                            if (data["subject"][i]["teacher"][p].indexOf(teacher_search) != -1) {
+                                for (var j = 0; j < data["subject"][i]["period"].length; j++) {
+                                    if (j == 0) {
+                                        period = data["subject"][i]["period"][j]
+                                    } else {
+                                        period += "，" + data["subject"][i]["period"][j]
                                     }
-                                    for (var k = 0; k < data["subject"][i]["teacher"].length; k++) {
-                                        if (k == 0) {
-                                            teacher = data["subject"][i]["teacher"][k]
-                                        } else {
-                                            teacher += "<br>" + data["subject"][i]["teacher"][k]
-                                        }
+                                }
+                                for (var k = 0; k < data["subject"][i]["teacher"].length; k++) {
+                                    if (k == 0) {
+                                        teacher = data["subject"][i]["teacher"][k]
+                                    } else {
+                                        teacher += "<br>" + data["subject"][i]["teacher"][k]
                                     }
-                                    table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
-                                    count += 1;
-                                    break period_loop
+                                }
+                                table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                count += 1;
+                                break
+                            }
+                        }
+                    }
+
+                } else {
+                    period_loop: for (var m = 0; m < period_arr.length; m++) {
+                        for (var n = 0; n < data["subject"][i]["period"].length; n++) {
+                            if (period_arr[m] == data["subject"][i]["period"][n]) {
+                                var period;
+                                var teacher;
+                                for (var p = 0; p < data["subject"][i]["teacher"].length; p++) {
+                                    if (data["subject"][i]["teacher"][p].indexOf(teacher_search) != -1) {
+                                        for (var j = 0; j < data["subject"][i]["period"].length; j++) {
+                                            if (j == 0) {
+                                                period = data["subject"][i]["period"][j]
+                                            } else {
+                                                period += "，" + data["subject"][i]["period"][j]
+                                            }
+                                        }
+                                        for (var k = 0; k < data["subject"][i]["teacher"].length; k++) {
+                                            if (k == 0) {
+                                                teacher = data["subject"][i]["teacher"][k]
+                                            } else {
+                                                teacher += "<br>" + data["subject"][i]["teacher"][k]
+                                            }
+                                        }
+                                        table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                        count += 1;
+                                        break period_loop
+                                    }
                                 }
                             }
                         }
@@ -13999,6 +14002,7 @@ function change() {
             }
         }
     }
+}
     if(table=='<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>'){
     document.getElementById('data_content').innerHTML = '検索結果はありません';
     }
