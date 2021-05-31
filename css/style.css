@@ -68,7 +68,6 @@ input[type="tel"] {
     border-spacing: none;
     table-layout: fixed;
     border-collapse: collapse;
-    min-width:1191px;
 }
 
 #data_content th {
