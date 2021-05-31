@@ -60,16 +60,16 @@ input[type="tel"] {
 #data_content {
     margin: 0.5rem;
     overflow-x: scroll;
-    width: 1190px;
+    width: 1191px;
+    white-space: nowrap;
 }
 
 #data_content table {
-    white-space: nowrap;
     border: none;
     border-spacing: none;
     table-layout: fixed;
     border-collapse: collapse;
-    min-width:1190px;
+    min-width:1191px;
 }
 
 #data_content th {
