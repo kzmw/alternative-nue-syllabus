@@ -60,7 +60,6 @@ input[type="tel"] {
 #data_content {
     margin: 0.5rem;
     overflow-x: scroll;
-    width: 1191px;
     white-space: nowrap;
 }
 
