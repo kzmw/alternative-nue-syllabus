@@ -64,6 +64,7 @@ input[type="tel"] {
 }
 
 #data_content table {
+    white-space: nowrap;
     border: none;
     border-spacing: none;
     table-layout: fixed;
