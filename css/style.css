@@ -25,6 +25,10 @@ header{
     padding-left:0.5rem;
 }
 
+header img {
+vertical-align: middle;
+}
+
 .hptitle{
 width:100%;
 font-size:30px; 
