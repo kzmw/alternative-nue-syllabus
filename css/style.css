@@ -68,7 +68,7 @@ input[type="tel"] {
     border-spacing: none;
     table-layout: fixed;
     border-collapse: collapse;
-    font-size:medium;
+    -webkit-text-size-adjust: 100%;
 }
 
 #data_content th {
