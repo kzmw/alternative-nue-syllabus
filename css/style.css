@@ -37,6 +37,7 @@ height:50px;
 line-height:30px; 
 font-weight:700;
 white-space: nowrap;
+vertical-align: middle;
 }
 
 input[type="text"] {
