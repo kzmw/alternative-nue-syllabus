@@ -30,6 +30,7 @@ vertical-align: middle;
 }
 
 .hptitle{
+display:table-cell;
 width:100%;
 font-size:30px; 
 height:50px;
