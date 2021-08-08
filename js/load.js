@@ -13888,7 +13888,7 @@ window.onload = function() {
                 teacher += "<br>" + data["subject"][i]["teacher"][k]
             }
         }
-        table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+        table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
         count += 1;
     }
     document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table table-responsive">' + table + '</table>';
@@ -13942,7 +13942,7 @@ function change() {
                                     teacher += "<br>" + data["subject"][i]["teacher"][k]
                                 }
                             }
-                            table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                            table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
                             count += 1;
                         } else {
                             for (var p = 0; p < data["subject"][i]["teacher"].length; p++) {
@@ -13961,7 +13961,7 @@ function change() {
                                             teacher += "<br>" + data["subject"][i]["teacher"][k]
                                         }
                                     }
-                                    table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                    table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
                                     count += 1;
                                     break
                                 }
@@ -13990,7 +13990,7 @@ function change() {
                                                     teacher += "<br>" + data["subject"][i]["teacher"][k]
                                                 }
                                             }
-                                            table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                            table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
                                             count += 1;
                                             break period_loop
                                         }
