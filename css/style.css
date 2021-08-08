@@ -23,6 +23,7 @@ header {
     margin-top: 50px;
     padding-top: 5px;
     padding-left: 0.5rem;
+    padding-bottom: 5px;
 }
 
 header img {
@@ -37,62 +38,15 @@ header img {
     vertical-align: middle;
 }
 
-input[type="text"] {
-    height: 1.8rem;
-    line-height: 1.8rem;
-    padding: 0 0.4rem;
-    border: none;
-    border-radius: 4px;
-    box-sizing: content-box;
-    box-shadow: 0 1px 2px rgb(0 0 0 / 40%);
-    vertical-align: top;
-    -webkit-appearance: none;
-}
-
-input[type="tel"] {
-    height: 1.8rem;
-    line-height: 1.8rem;
-    padding: 0 0.4rem;
-    border: none;
-    border-radius: 4px;
-    box-sizing: content-box;
-    box-shadow: 0 1px 2px rgb(0 0 0 / 40%);
-    vertical-align: top;
-    -webkit-appearance: none;
-}
-
 #data_content {
     margin: 0.5rem;
     overflow-x: scroll;
     white-space: nowrap;
 }
 
-#data_content table {
-    border: none;
-    border-spacing: none;
-    table-layout: fixed;
-    border-collapse: collapse;
-    -webkit-text-size-adjust: 100%;
-}
-
 #data_content th {
-    border-left: none;
-    border-right: none;
-    border-top: none;
-    color: #fff;
     text-align: center;
     font-weight: bold;
-    padding: 0.2rem;
-    background: rgb(0, 155, 229);
-}
-
-#data_content td {
-    background: #fff;
-    border-left: none;
-    border-right: none;
-    border-top: none;
-    border-bottom: solid 1px #ccc;
-    padding: 0.2rem;
 }
 
 a.syllabus {
