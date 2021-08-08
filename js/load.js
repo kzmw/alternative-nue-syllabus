@@ -13891,7 +13891,7 @@
             table += '<tr><td>' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="syllabus" target="_blank">シラバス</a></td><td>' + data["subject"][i]["semester"] + "</td><td>" + period + "</td><td>" + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
             count += 1;
         }
-        document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table table-hover table-striped">' + table + '</table>';
+        document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table">' + table + '</table>';
     }
 
     function change() {
@@ -14006,6 +14006,6 @@
         if (table == '<tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>') {
             document.getElementById('data_content').innerHTML = '検索結果はありません';
         } else {
-            document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table>' + table + '</table>';
+            document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table">' + table + '</table>';
         }
     }
