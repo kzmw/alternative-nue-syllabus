@@ -13870,7 +13870,7 @@ var data = {
 
 window.onload = function() {
     var count = 0;
-    var table = '<tr class="table-primary"><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
+    var table = '<thead class="table-primary"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
     for (var i = 0; i < data["subject"].length; i++) {
         var period;
         var teacher;
@@ -13891,7 +13891,7 @@ window.onload = function() {
         table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
         count += 1;
     }
-    document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table table-responsive">' + table + '</table>';
+    document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
 }
 
 function change() {
@@ -13919,7 +13919,7 @@ function change() {
     }
 
     var count = 0;
-    var table = '<tr class="table-primary"><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>';
+    var table = '<thead class="table-primary"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
     for (var i = 0; i < data["subject"].length; i++) {
         if (data["subject"][i]["tt_num"].indexOf(tt_num) != -1) {
             if (data["subject"][i]["name"].indexOf(name) != -1) {
@@ -14003,10 +14003,10 @@ function change() {
             }
         }
     }
-    if (table == '<tr class="table-primary"><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr>') {
+    if (table == '<thead class="table-primary"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>') {
         document.getElementById('data_content').innerHTML = '検索結果はありません';
     } else {
-        document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table table-responsive">' + table + '</table>';
+        document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
     }
 }
 
@@ -14027,5 +14027,25 @@ function check_checked() {
             period_element[i].checked = true;
         }
     }
+    document.querySelector("input[name='period']").onchange();
+}
+
+function all_reset() {
+    document.getElementById('tt_num').value = "";
+    document.getElementById('name').value = "";
+    var semeseter_elements = document.getElementsByName('semester');
+    semeseter_elements[0].checked = true;
+    const period_element = document.getElementsByName('period');
+    for (let i = 0; i < period_element.length; i++) {
+        if (period_element[i].checked) {
+            period_element[i].checked = false;
+        }
+    }
+    document.getElementById('teacher').value = "";
+
+    document.getElementById('tt_num').oninput();
+    document.getElementById('name').oninput();
+    document.getElementById('teacher').oninput();
+    document.querySelector("input[name='semester']").onchange();
     document.querySelector("input[name='period']").onchange();
 }
