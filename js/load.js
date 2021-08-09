@@ -13913,8 +13913,14 @@ function change() {
     const period_element = document.getElementsByName('period');
 
     for (let i = 0; i < period_element.length; i++) {
-        if (period_element[i].checked) {
+        if (period_element[i].checked && period_element[i].value != '集中') {
+            period_element[i].parentElement.style.backgroundColor = '#27cc7f';
             period_arr.push(period_element[i].value);
+        }
+        if (period_element[i].checked && period_element[i].value == '集中') {
+            period_arr.push(period_element[i].value);
+        } else if (period_element[i].checked == false && period_element[i].value != '集中') {
+            period_element[i].parentElement.style.backgroundColor = 'transparent';
         }
     }
 

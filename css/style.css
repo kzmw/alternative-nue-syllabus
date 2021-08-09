@@ -17,10 +17,6 @@ body {
     font-weight: bold;
 }
 
-.header_content td {
-    padding: auto;
-}
-
 
 /* a.syllabus {
     color: #fff;
@@ -38,4 +34,34 @@ body {
 
 #time_table th {
     text-align: center;
+}
+
+.check_none_td {
+    position: relative;
+}
+
+.check_none_label {
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.check_none {
+    display: none;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+
+#time_table td:empty {
+    background-color: #dddddd;
+    /* 背景色     */
+    /* ▼ 斜線はSVG画像を背景として設定 */
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJ3aWR0aDoxMDAlO2hlaWdodDoxMDAlOyI+PGxpbmUgeDE9IjEwMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSIgc3R5bGU9InN0cm9rZTogIzMzMzMzMztzdHJva2Utd2lkdGg6IDE7Ij48L2xpbmU+PC9zdmc+');
 }
