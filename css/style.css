@@ -38,7 +38,6 @@ body {
 
 .check_none_td {
     position: relative;
-    table-layout: fixed;
 }
 
 .check_none_label {
