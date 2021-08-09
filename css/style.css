@@ -4,20 +4,8 @@ body {
 }
 
 .header_content {
-    background: linear-gradient(90deg, rgba(0, 155, 229, 0.2), rgba(255, 255, 255, 1) 20%);
+    margin-top: 56px;
     padding: 5px;
-}
-
-header img {
-    vertical-align: middle;
-}
-
-.hptitle {
-    font-size: 30px;
-    line-height: 50px;
-    font-weight: 700;
-    white-space: nowrap;
-    vertical-align: middle;
 }
 
 #data_content {
@@ -27,6 +15,10 @@ header img {
 #data_content th {
     text-align: center;
     font-weight: bold;
+}
+
+.header_content td {
+    padding: auto;
 }
 
 
