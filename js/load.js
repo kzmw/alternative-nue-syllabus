@@ -13870,7 +13870,7 @@ var data = {
 
 window.onload = function() {
     var count = 0;
-    var table = '<thead class="table-primary"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
+    var table = '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
     for (var i = 0; i < data["subject"].length; i++) {
         var period;
         var teacher;
@@ -13919,7 +13919,7 @@ function change() {
     }
 
     var count = 0;
-    var table = '<thead class="table-primary"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
+    var table = '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
     for (var i = 0; i < data["subject"].length; i++) {
         if (data["subject"][i]["tt_num"].indexOf(tt_num) != -1) {
             if (data["subject"][i]["name"].indexOf(name) != -1) {
@@ -14003,7 +14003,7 @@ function change() {
             }
         }
     }
-    if (table == '<thead class="table-primary"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>') {
+    if (table == '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>') {
         document.getElementById('data_content').innerHTML = '検索結果はありません';
     } else {
         document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
