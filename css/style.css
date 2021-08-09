@@ -38,6 +38,8 @@ body {
 
 .check_none_td {
     position: relative;
+    width: 2vw;
+    height: 2vw;
 }
 
 .check_none_label {
