@@ -14110,6 +14110,7 @@ function change() {
     $("#page_nav").rPage();
     if (table == '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>') {
         document.getElementById('data_content').innerHTML = '検索結果はありません';
+        document.getElementById('page_nav').innerHTML = '';
     } else {
         document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table id="syllabus_data" class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
     }
