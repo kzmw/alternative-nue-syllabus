@@ -1,15 +1,10 @@
 body {
-    margin: 0;
+    margin: 0.5rem;
     font-family: sans-serif;
 }
 
 .header_content {
-    margin-top: 56px;
-    padding: 5px;
-}
-
-#data_content {
-    margin: 0.5rem;
+    margin-top: 60px;
 }
 
 #data_content th {
