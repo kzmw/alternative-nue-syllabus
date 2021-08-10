@@ -13868,8 +13868,12 @@ var data = {
     ]
 }
 
+let page_max = 0;
+let page_now = 1;
+
 window.onload = function() {
     var count = 0;
+    var page_num = 0;
     var table = '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
     for (var i = 0; i < data["subject"].length; i++) {
         var period;
@@ -13888,13 +13892,67 @@ window.onload = function() {
                 teacher += "<br>" + data["subject"][i]["teacher"][k]
             }
         }
-        table += '<tr data-pagenum=1><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+        if (i % 20 == 0) {
+            page_num += 1
+        }
+        if (page_num == 1) {
+            table += '<tr data-pagenum=' + String(page_num) + ' style="display:table-row;"><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+        } else {
+            table += '<tr data-pagenum=' + String(page_num) + ' style="display:none;"><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+        }
         count += 1;
     }
-    document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
+    page_max = page_num;
+    document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table id="syllabus_data" class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
+    var page_nav = '<ul class="pagination"><li class="page-item disabled"><a class="page-link" href="javascript:page(' + String(page_now - 1) + ');">«</a></li>';
+    for (var k = 1; k <= page_max; k++) {
+        if (k == page_now) {
+            page_nav += '<li class="page-item active"><a class="page-link" href="javascript:page(' + String(k) + ');">' + String(k) + '</a></li>'
+        } else {
+            page_nav += '<li class="page-item"><a class="page-link" href="javascript:page(' + String(k) + ');">' + String(k) + '</a></li>'
+        }
+    }
+    page_nav += '<li class="page-item"><a class="page-link" href="javascript:page(' + String(page_now + 1) + ');">»</a></li></ul>';
+    document.getElementById('page_nav').innerHTML = page_nav;
+    $("#page_nav").rPage();
+}
+
+function page(page_next) {
+    page_now = page_next;
+    if (page_now == 1) {
+        var page_nav = '<ul class="pagination"><li class="page-item disabled"><a class="page-link" href="">«</a></li>';
+    } else {
+        var page_nav = '<ul class="pagination"><li class="page-item"><a class="page-link" href="javascript:page(' + String(page_now - 1) + ')">«</a></li>'
+    }
+    for (var k = 1; k <= page_max; k++) {
+        if (k == page_now) {
+            page_nav += '<li class="page-item active"><a class="page-link" href="javascript:page(' + String(k) + ')">' + String(k) + '</a></li>'
+        } else {
+            page_nav += '<li class="page-item"><a class="page-link" href="javascript:page(' + String(k) + ')">' + String(k) + '</a></li>'
+        }
+    }
+    if (page_now == page_max) {
+        page_nav += '<li class="page-item disabled"><a class="page-link" href="">»</a></li></ul>';
+    } else {
+        page_nav += '<li class="page-item"><a class="page-link" href="javascript:page(' + String(page_now + 1) + ')">»</a></li></ul>';
+    }
+    document.getElementById('page_nav').innerHTML = page_nav;
+    $("#page_nav").rPage();
+
+    var table = document.getElementById('syllabus_data');
+    var row = table.rows;
+    for (var i = 1; i <= row.length - 1; i++) {
+        if (row[i].dataset.pagenum == String(page_now)) {
+            row[i].style.display = "";
+        } else {
+            row[i].style.display = "none";
+        }
+    }
 }
 
 function change() {
+    var page_num = 0;
+    page_now = 1;
     const tt_num = "G" + document.getElementById('tt_num').value;
     const name = document.getElementById('name').value;
     const teacher_search = document.getElementById('teacher').value;
@@ -13948,7 +14006,14 @@ function change() {
                                     teacher += "<br>" + data["subject"][i]["teacher"][k]
                                 }
                             }
-                            table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                            if (count % 20 == 0) {
+                                page_num += 1
+                            }
+                            if (page_num == 1) {
+                                table += '<tr data-pagenum=' + String(page_num) + ' style="display:table-row;"><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                            } else {
+                                table += '<tr data-pagenum=' + String(page_num) + ' style="display:none;"><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                            }
                             count += 1;
                         } else {
                             for (var p = 0; p < data["subject"][i]["teacher"].length; p++) {
@@ -13967,7 +14032,14 @@ function change() {
                                             teacher += "<br>" + data["subject"][i]["teacher"][k]
                                         }
                                     }
-                                    table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                    if (count % 20 == 0) {
+                                        page_num += 1
+                                    }
+                                    if (page_num == 1) {
+                                        table += '<tr data-pagenum=' + String(page_num) + ' style="display:table-row;"><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                    } else {
+                                        table += '<tr data-pagenum=' + String(page_num) + ' style="display:none;"><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                    }
                                     count += 1;
                                     break
                                 }
@@ -13996,7 +14068,14 @@ function change() {
                                                     teacher += "<br>" + data["subject"][i]["teacher"][k]
                                                 }
                                             }
-                                            table += '<tr><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                            if (count % 20 == 0) {
+                                                page_num += 1
+                                            }
+                                            if (page_num == 1) {
+                                                table += '<tr data-pagenum=' + String(page_num) + ' style="display:table-row;"><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                            } else {
+                                                table += '<tr data-pagenum=' + String(page_num) + ' style="display:none;"><td style="text-align:center;">' + data["subject"][i]["tt_num"] + "</td><td>" + data["subject"][i]["name"] + '<br><a href="' + data["subject"][i]["page"] + '"class="btn btn-sm btn-primary" target="_blank">シラバス参照</a></td><td style="text-align:center;">' + data["subject"][i]["semester"] + '</td><td>' + period + '</td><td style="text-align:center;">' + data["subject"][i]["credits"] + "</td><td>" + teacher + "</td></tr>"
+                                            }
                                             count += 1;
                                             break period_loop
                                         }
@@ -14009,10 +14088,30 @@ function change() {
             }
         }
     }
+    page_max = page_num;
+    if (page_now == 1) {
+        var page_nav = '<ul class="pagination"><li class="page-item disabled"><a class="page-link" href="">«</a></li>';
+    } else {
+        var page_nav = '<ul class="pagination"><li class="page-item"><a class="page-link" href="javascript:page(' + String(page_now - 1) + ')">«</a></li>'
+    }
+    for (var k = 1; k <= page_max; k++) {
+        if (k == page_now) {
+            page_nav += '<li class="page-item active"><a class="page-link" href="javascript:page(' + String(k) + ')">' + String(k) + '</a></li>'
+        } else {
+            page_nav += '<li class="page-item"><a class="page-link" href="javascript:page(' + String(k) + ')">' + String(k) + '</a></li>'
+        }
+    }
+    if (page_now == page_max) {
+        page_nav += '<li class="page-item disabled"><a class="page-link" href="">»</a></li></ul>';
+    } else {
+        page_nav += '<li class="page-item"><a class="page-link" href="javascript:page(' + String(page_now + 1) + ')">»</a></li></ul>';
+    }
+    document.getElementById('page_nav').innerHTML = page_nav;
+    $("#page_nav").rPage();
     if (table == '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>') {
         document.getElementById('data_content').innerHTML = '検索結果はありません';
     } else {
-        document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
+        document.getElementById('data_content').innerHTML = '検索結果：' + count + '件<br><table id="syllabus_data" class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
     }
 }
 
