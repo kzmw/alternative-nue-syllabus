@@ -8,16 +8,8 @@ let per_page = 20;
 
 window.onload = function() {
     fetch("https://nue-syllabus.nisylvania.net/json/2021_syllabus.json")
-        .then(
-            function(u) {
-                return u.json();
-            }
-        )
-        .then(
-            function(e) {
-                data = e;
-            }
-        )
+        .then(res => res.json())
+        .then(res_data => data = res_data)
     var page_num = 0;
     var table = '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
     for (var i = 0; i < data["subject"].length; i++) {
