@@ -7,7 +7,7 @@ let count = 0;
 let per_page = 20;
 
 window.onload = function() {
-    fetch("./json/2021_syllabus.json")
+    fetch("../json/2021_syllabus.json")
         .then(
             function(u) {
                 return u.json();
