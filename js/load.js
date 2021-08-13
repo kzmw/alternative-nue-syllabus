@@ -1,4 +1,4 @@
-let data;
+let data = {};
 let page_max = 0;
 let page_now = 1;
 let now_page_min = 0;
