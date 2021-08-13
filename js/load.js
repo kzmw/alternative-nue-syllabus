@@ -6,10 +6,22 @@ let now_page_max = 0;
 let count = 0;
 let per_page = 20;
 
+function Example(jsonObj) {
+    data = jsonObj.results[0]
+}
+
 window.onload = function() {
-    fetch("https://nue-syllabus.nisylvania.net/json/2021_syllabus.json")
-        .then(res => res.json())
-        .then(res_data => data = res_data)
+    fetch('./json/2021_syllabus.json')
+        .then((response) => {
+            return response.json()　 //ここでBodyからJSONを返す
+        })
+        .then((result) => {
+            Example(result); //取得したJSONデータを関数に渡す 
+        })
+        .catch((e) => {
+            console.log(e) //エラーをキャッチし表示     
+        })
+
     var page_num = 0;
     var table = '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>';
     for (var i = 0; i < data["subject"].length; i++) {
