@@ -13905,7 +13905,7 @@ window.onload = function() {
         count += 1;
     }
     page_max = page_num;
-    document.getElementById('result').innerHTML = '検索結果：' + count + '件';
+
     document.getElementById('data_content').innerHTML = '<table id="syllabus_data" class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
     if ((page_now) * per_page > count) {
         now_page_max = count
@@ -13925,6 +13925,8 @@ window.onload = function() {
     document.getElementById('page_text').innerHTML = page_text;
     document.getElementById('page_nav').innerHTML = page_nav;
     $("#page_nav").rPage();
+    var footer_height = String(document.getElementById('footer').clientHeight) + 'px';
+    document.getElementById('data_content').style.marginBottom = footer_height;
 }
 
 function page(page_next) {
@@ -13966,6 +13968,8 @@ function page(page_next) {
             row[i].style.display = "none";
         }
     }
+    var footer_height = String(document.getElementById('footer').clientHeight) + 'px';
+    document.getElementById('data_content').style.marginBottom = footer_height;
 }
 
 function change() {
@@ -14139,9 +14143,11 @@ function change() {
         document.getElementById('page_text').innerHTML = '';
         document.getElementById('page_nav').innerHTML = '';
     } else {
-        document.getElementById('result').innerHTML = '検索結果：' + count + '件';
+
         document.getElementById('data_content').innerHTML = '<table id="syllabus_data" class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
     }
+    var footer_height = String(document.getElementById('footer').clientHeight) + 'px';
+    document.getElementById('data_content').style.marginBottom = footer_height;
 }
 
 function per_page_change() {
@@ -14316,9 +14322,10 @@ function per_page_change() {
         document.getElementById('page_text').innerHTML = '';
         document.getElementById('page_nav').innerHTML = '';
     } else {
-        document.getElementById('result').innerHTML = '検索結果：' + count + '件';
         document.getElementById('data_content').innerHTML = '<table id="syllabus_data" class="table-hover table-striped table text-nowrap" style="table-layout:auto;width:auto">' + table + '</table>';
     }
+    var footer_height = String(document.getElementById('footer').clientHeight) + 'px';
+    document.getElementById('data_content').style.marginBottom = footer_height;
 }
 
 function check_clear() {
