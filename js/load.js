@@ -14138,7 +14138,6 @@ function change() {
     document.getElementById('page_nav').innerHTML = page_nav;
     $("#page_nav").rPage();
     if (table == '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>') {
-        document.getElementById('result').innerHTML = '';
         document.getElementById('data_content').innerHTML = '検索結果はありません';
         document.getElementById('page_text').innerHTML = '';
         document.getElementById('page_nav').innerHTML = '';
@@ -14317,7 +14316,6 @@ function per_page_change() {
     document.getElementById('page_nav').innerHTML = page_nav;
     $("#page_nav").rPage();
     if (table == '<thead class="table-dark"><tr><th>時間割番号</th><th>科目名</th><th>学期</th><th>曜日・時限</th><th>単位数</th><th>教員名</th></tr></thead>') {
-        document.getElementById('result').innerHTML = '';
         document.getElementById('data_content').innerHTML = '検索結果はありません';
         document.getElementById('page_text').innerHTML = '';
         document.getElementById('page_nav').innerHTML = '';
