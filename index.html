@@ -59,10 +59,14 @@
                 <tr>
                     <td align="right" style="white-space: nowrap;"><b>学期：</b></td>
                     <td>
-                        <input class="form-check-input" type="radio" name="semester" value="すべて" onchange="change()" checked>すべて
-                        <input class="form-check-input" type="radio" name="semester" value="前期" onchange="change()">前期
-                        <input class="form-check-input" type="radio" name="semester" value="後期" onchange="change()">後期
-                        <input class="form-check-input" type="radio" name="semester" value="通年" onchange="change()">通年
+                        <input class="form-check-input" type="radio" name="semester" value="すべて" id="semester1" onchange="change()" checked>
+                        <label class="form-check-label" for="semester1">すべて</label>
+                        <input class="form-check-input" type="radio" name="semester" value="前期" id="semester2" onchange="change()">
+                        <label class="form-check-label" for="semester2">前期</label>
+                        <input class="form-check-input" type="radio" name="semester" value="後期" id="semester3" onchange="change()">
+                        <label class="form-check-label" for="semester3">後期</label>
+                        <input class="form-check-input" type="radio" name="semester" value="通年" id="semester4" onchange="change()">
+                        <label class="form-check-label" for="semester4">通年</label>
                     </td>
                 </tr>
                 <tr>
