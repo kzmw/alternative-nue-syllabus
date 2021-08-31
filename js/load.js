@@ -1,5 +1,6 @@
 let data = {
-    "subject": [{
+    "subject": [
+        {
             "tt_num": "G0052",
             "name": "フィールドワークで地域に学ぶ",
             "semester": "前期",
@@ -130,34 +131,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0042.html"
         },
         {
-            "tt_num": "G0044",
-            "name": "奈良と文学",
-            "semester": "後期",
-            "period": [
-                "火3",
-                "火4"
-            ],
-            "teacher": [
-                "米田 猛"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0044.html"
-        },
-        {
-            "tt_num": "G8501",
-            "name": "大学で学び直す「高校世界史」",
-            "semester": "後期",
-            "period": [
-                "火3",
-                "火4"
-            ],
-            "teacher": [
-                "西田 慎"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8501.html"
-        },
-        {
             "tt_num": "G0004",
             "name": "ＥＳＤ概論",
             "semester": "後期",
@@ -203,7 +176,7 @@ let data = {
         },
         {
             "tt_num": "G0097",
-            "name": "古典文学再入門　『竹取物語』を読み直す",
+            "name": "古典文学再入門 『竹取物語』を読み直す",
             "semester": "後期",
             "period": [
                 "金1",
@@ -266,6 +239,22 @@ let data = {
                 "火4"
             ],
             "teacher": [
+                "松山 豊樹",
+                "松井 淳",
+                "伊藤 直治",
+                "石田 正樹",
+                "信川 正順",
+                "高橋 亮",
+                "山崎 祥子",
+                "和田 穣隆",
+                "川崎 謙一郎",
+                "藤井 智康",
+                "常田 琢",
+                "近藤 裕",
+                "片岡 佐知子",
+                "高木 祥司",
+                "小川 泰朗",
+                "舟橋 友香",
                 "担当教員未定"
             ],
             "credits": 2,
@@ -394,7 +383,7 @@ let data = {
         },
         {
             "tt_num": "G0007",
-            "name": "奈良と教育　-ここはどこ？　私はだれ？-",
+            "name": "奈良と教育 -ここはどこ？ 私はだれ？-",
             "semester": "前期",
             "period": [
                 "火9",
@@ -631,20 +620,6 @@ let data = {
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0111.html"
-        },
-        {
-            "tt_num": "G0115",
-            "name": "英語Ｃ",
-            "semester": "後期",
-            "period": [
-                "月1",
-                "月2"
-            ],
-            "teacher": [
-                "門田 守"
-            ],
-            "credits": 1,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0115.html"
         },
         {
             "tt_num": "G0117",
@@ -1500,20 +1475,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0226.html"
         },
         {
-            "tt_num": "G0211",
-            "name": "外国語コミュニケーション（英語）Ｍ",
-            "semester": "後期",
-            "period": [
-                "月3",
-                "月4"
-            ],
-            "teacher": [
-                "門田 守"
-            ],
-            "credits": 1,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0211.html"
-        },
-        {
             "tt_num": "G0215",
             "name": "外国語コミュニケーション（英語）Ｎ",
             "semester": "後期",
@@ -2268,7 +2229,8 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "担当教員未定"
+                "赤沢 早人",
+                "小柳 和喜雄"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2223.html"
@@ -2288,20 +2250,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1572.html"
         },
         {
-            "tt_num": "G1573",
-            "name": "教育相談・進路指導（キャリア・カウンセリングを含む。）★（生徒指導・教育相談ⅡＡ）",
-            "semester": "後期",
-            "period": [
-                "水1",
-                "水2"
-            ],
-            "teacher": [
-                "市来 百合子"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1573.html"
-        },
-        {
             "tt_num": "G2241",
             "name": "総合的な学習の時間の指導法",
             "semester": "後期",
@@ -2310,14 +2258,15 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "赤沢 早人"
+                "赤沢 早人",
+                "小柳 和喜雄"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2241.html"
         },
         {
             "tt_num": "G1574",
-            "name": "教育相談・進路指導（キャリアカウンセリングを含む。））★（生徒指導・教育相談ⅡＢ）",
+            "name": "教育相談・進路指導（キャリア・カウンセリングを含む。）",
             "semester": "後期",
             "period": [
                 "木5",
@@ -2342,20 +2291,6 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2029.html"
-        },
-        {
-            "tt_num": "G2131",
-            "name": "道徳教育の理論と方法A▲（道徳教育の理論と方法（初等））",
-            "semester": "後期",
-            "period": [
-                "木5",
-                "木6"
-            ],
-            "teacher": [
-                "浅井 健介"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2131.html"
         },
         {
             "tt_num": "G2224",
@@ -2384,6 +2319,20 @@ let data = {
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2237.html"
+        },
+        {
+            "tt_num": "G2238",
+            "name": "特別活動の理論と方法A",
+            "semester": "後期",
+            "period": [
+                "水3",
+                "水4"
+            ],
+            "teacher": [
+                "粕谷 圭佑"
+            ],
+            "credits": 1,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2238.html"
         },
         {
             "tt_num": "G2199",
@@ -2443,9 +2392,9 @@ let data = {
                 "越野 和之",
                 "木下 理恵",
                 "富井 奈菜実",
-                "中西 陽",
                 "堀田 千絵",
-                "全 有耳"
+                "全 有耳",
+                "今泉 祥子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2202.html"
@@ -2464,22 +2413,6 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2203.html"
-        },
-        {
-            "tt_num": "G2204",
-            "name": "教職実践演習（幼小中高）〔社会〕",
-            "semester": "後期",
-            "period": [
-                "金9",
-                "金10"
-            ],
-            "teacher": [
-                "西田 慎",
-                "太田 満",
-                "森口 洋一"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2204.html"
         },
         {
             "tt_num": "G2205",
@@ -2821,6 +2754,9 @@ let data = {
                 "集中"
             ],
             "teacher": [
+                "竹村 謙司",
+                "赤沢 早人",
+                "橋崎 頼子",
                 "担当教員未定"
             ],
             "credits": 1,
@@ -2835,6 +2771,9 @@ let data = {
                 "木4"
             ],
             "teacher": [
+                "竹村 謙司",
+                "赤沢 早人",
+                "橋崎 頼子",
                 "担当教員未定"
             ],
             "credits": 1,
@@ -2891,6 +2830,9 @@ let data = {
                 "木4"
             ],
             "teacher": [
+                "竹村 謙司",
+                "赤沢 早人",
+                "橋崎 頼子",
                 "担当教員未定"
             ],
             "credits": 1,
@@ -6912,7 +6854,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "新谷 遙"
+                "新谷 遥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6541.html"
@@ -7230,7 +7172,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "新谷 遙"
+                "新谷 遥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6542.html"
@@ -7488,7 +7430,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "担当教員未定"
+                "橋本 要"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3805.html"
@@ -7501,7 +7443,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "担当教員未定"
+                "橋本 要"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3840.html"
@@ -7666,7 +7608,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "担当教員未定"
+                "古川 攝一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4894.html"
@@ -8482,20 +8424,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3449.html"
         },
         {
-            "tt_num": "G3456",
-            "name": "西洋史研究Ⅳ",
-            "semester": "後期",
-            "period": [
-                "月1",
-                "月2"
-            ],
-            "teacher": [
-                "西田 慎"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3456.html"
-        },
-        {
             "tt_num": "G3518",
             "name": "経済学・社会学研究Ⅳ",
             "semester": "後期",
@@ -8538,8 +8466,8 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4754.html"
         },
         {
-            "tt_num": "G4758",
-            "name": "ピアノⅣ（Ｄ）",
+            "tt_num": "G4763",
+            "name": "演奏実習Ⅰ（Ｂ）",
             "semester": "後期",
             "period": [
                 "月1",
@@ -8549,7 +8477,7 @@ let data = {
                 "前田 則子"
             ],
             "credits": 1,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4758.html"
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4763.html"
         },
         {
             "tt_num": "G6252",
@@ -8564,20 +8492,6 @@ let data = {
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6252.html"
-        },
-        {
-            "tt_num": "G2097",
-            "name": "中等教科教育法Ⅳ（技術）",
-            "semester": "後期",
-            "period": [
-                "月3",
-                "月4"
-            ],
-            "teacher": [
-                "薮 哲郎"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2097.html"
         },
         {
             "tt_num": "G3074",
@@ -8987,6 +8901,20 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5520.html"
         },
         {
+            "tt_num": "G6504",
+            "name": "日本語教育論",
+            "semester": "後期",
+            "period": [
+                "月5",
+                "月6"
+            ],
+            "teacher": [
+                "和泉元 千春"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6504.html"
+        },
+        {
             "tt_num": "G1539",
             "name": "小学校算数★（算数）",
             "semester": "後期",
@@ -9025,6 +8953,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
+                "椎名 美穂子",
                 "担当教員未定"
             ],
             "credits": 2,
@@ -9072,20 +9001,6 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3444.html"
-        },
-        {
-            "tt_num": "G3454",
-            "name": "西洋史研究Ⅱ",
-            "semester": "後期",
-            "period": [
-                "月7",
-                "月8"
-            ],
-            "teacher": [
-                "西田 慎"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3454.html"
         },
         {
             "tt_num": "G3513",
@@ -9276,21 +9191,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5518.html"
         },
         {
-            "tt_num": "G5551",
-            "name": "電気設計製作",
-            "semester": "後期",
-            "period": [
-                "月7",
-                "月8",
-                "月9"
-            ],
-            "teacher": [
-                "薮 哲郎"
-            ],
-            "credits": 1,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5551.html"
-        },
-        {
             "tt_num": "G5924",
             "name": "障害児心理学演習",
             "semester": "後期",
@@ -9299,7 +9199,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "中西 陽"
+                "今泉 祥子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5924.html"
@@ -9870,20 +9770,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5506.html"
         },
         {
-            "tt_num": "G5762",
-            "name": "保育学(実習を含む。）",
-            "semester": "後期",
-            "period": [
-                "火3",
-                "火4"
-            ],
-            "teacher": [
-                "中川 愛"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5762.html"
-        },
-        {
             "tt_num": "G2191",
             "name": "保育内容の指導法（音楽表現）★（幼児の音楽表現）",
             "semester": "後期",
@@ -10311,21 +10197,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0715.html"
         },
         {
-            "tt_num": "G0716",
-            "name": "専修基礎ゼミ",
-            "semester": "後期",
-            "period": [
-                "火7",
-                "火8"
-            ],
-            "teacher": [
-                "門田 守",
-                "佐藤 臨太郎"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0716.html"
-        },
-        {
             "tt_num": "G0717",
             "name": "専修基礎ゼミ",
             "semester": "後期",
@@ -10382,23 +10253,6 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0719.html"
-        },
-        {
-            "tt_num": "G0720",
-            "name": "専修基礎ゼミ",
-            "semester": "後期",
-            "period": [
-                "火7",
-                "火8"
-            ],
-            "teacher": [
-                "中川 愛",
-                "杉山 薫",
-                "立松 麻衣子",
-                "村上 睦美"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0720.html"
         },
         {
             "tt_num": "G0721",
@@ -10494,6 +10348,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
+                "松本 歩子",
                 "松本 歩子"
             ],
             "credits": 2,
@@ -10752,7 +10607,6 @@ let data = {
             "teacher": [
                 "原山 健一",
                 "山岸 公基",
-                "竹内 晋平",
                 "宇田 秀士",
                 "大山 明彦",
                 "狩野 宏明"
@@ -10860,20 +10714,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5267.html"
         },
         {
-            "tt_num": "G5557",
-            "name": "情報技術実習",
-            "semester": "後期",
-            "period": [
-                "火9",
-                "火10"
-            ],
-            "teacher": [
-                "薮 哲郎"
-            ],
-            "credits": 1,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5557.html"
-        },
-        {
             "tt_num": "G6103",
             "name": "幼年教育学演習",
             "semester": "後期",
@@ -10910,6 +10750,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
+                "残華 雅子",
                 "担当教員未定"
             ],
             "credits": 2,
@@ -11220,20 +11061,6 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5503.html"
-        },
-        {
-            "tt_num": "G6504",
-            "name": "日本語教育論",
-            "semester": "後期",
-            "period": [
-                "水3",
-                "水4"
-            ],
-            "teacher": [
-                "和泉元 千春"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6504.html"
         },
         {
             "tt_num": "G2011",
@@ -11701,20 +11528,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1555.html"
         },
         {
-            "tt_num": "G3030",
-            "name": "国語科教育学演習Ⅱ",
-            "semester": "後期",
-            "period": [
-                "木7",
-                "木8"
-            ],
-            "teacher": [
-                "米田 猛"
-            ],
-            "credits": 1,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3030.html"
-        },
-        {
             "tt_num": "G3077",
             "name": "日本文学史Ⅱ",
             "semester": "後期",
@@ -11727,34 +11540,6 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3077.html"
-        },
-        {
-            "tt_num": "G3239",
-            "name": "国際理解地域研究",
-            "semester": "後期",
-            "period": [
-                "木7",
-                "木8"
-            ],
-            "teacher": [
-                "門田 守"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3239.html"
-        },
-        {
-            "tt_num": "G3436",
-            "name": "日本史研究Ⅱ",
-            "semester": "後期",
-            "period": [
-                "木7",
-                "木8"
-            ],
-            "teacher": [
-                "今 正秀"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3436.html"
         },
         {
             "tt_num": "G3703",
@@ -12146,20 +11931,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5933.html"
         },
         {
-            "tt_num": "G9970",
-            "name": "日本人の宗教観",
-            "semester": "後期",
-            "period": [
-                "金1",
-                "金2"
-            ],
-            "teacher": [
-                "担当教員未定"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9970.html"
-        },
-        {
             "tt_num": "G1100",
             "name": "読書と豊かな人間性",
             "semester": "後期",
@@ -12204,6 +11975,20 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2181.html"
         },
         {
+            "tt_num": "G3436",
+            "name": "日本史研究Ⅱ",
+            "semester": "後期",
+            "period": [
+                "金3",
+                "金4"
+            ],
+            "teacher": [
+                "今 正秀"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3436.html"
+        },
+        {
             "tt_num": "G4256",
             "name": "量子力学の世界",
             "semester": "後期",
@@ -12218,8 +12003,8 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4256.html"
         },
         {
-            "tt_num": "G4763",
-            "name": "演奏実習Ⅰ（Ｂ）",
+            "tt_num": "G4758",
+            "name": "ピアノⅣ（Ｄ）",
             "semester": "後期",
             "period": [
                 "金3",
@@ -12229,7 +12014,7 @@ let data = {
                 "前田 則子"
             ],
             "credits": 1,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4763.html"
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4758.html"
         },
         {
             "tt_num": "G4815",
@@ -12258,20 +12043,6 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4852.html"
-        },
-        {
-            "tt_num": "G4870",
-            "name": "工芸理論特講",
-            "semester": "後期",
-            "period": [
-                "金3",
-                "金4"
-            ],
-            "teacher": [
-                "原山 健一"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4870.html"
         },
         {
             "tt_num": "G5224",
@@ -12472,20 +12243,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3014.html"
         },
         {
-            "tt_num": "G3214",
-            "name": "英米文学史Ⅱ",
-            "semester": "後期",
-            "period": [
-                "金5",
-                "金6"
-            ],
-            "teacher": [
-                "門田 守"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3214.html"
-        },
-        {
             "tt_num": "G3506",
             "name": "経済学・社会学研究Ⅳ",
             "semester": "後期",
@@ -12596,34 +12353,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4863.html"
         },
         {
-            "tt_num": "G5541",
-            "name": "情報概論",
-            "semester": "後期",
-            "period": [
-                "金5",
-                "金6"
-            ],
-            "teacher": [
-                "薮 哲郎"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5541.html"
-        },
-        {
-            "tt_num": "G5765",
-            "name": "家庭看護学（実習を含む。）",
-            "semester": "後期",
-            "period": [
-                "金5",
-                "金6"
-            ],
-            "teacher": [
-                "中川 愛"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5765.html"
-        },
-        {
             "tt_num": "G6241",
             "name": "教育経営学特講",
             "semester": "後期",
@@ -12646,7 +12375,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "新谷 遙"
+                "新谷 遥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6546.html"
@@ -12692,20 +12421,6 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3058.html"
-        },
-        {
-            "tt_num": "G3216",
-            "name": "英米文学作品研究",
-            "semester": "後期",
-            "period": [
-                "金7",
-                "金8"
-            ],
-            "teacher": [
-                "門田 守"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3216.html"
         },
         {
             "tt_num": "G3259",
@@ -12820,20 +12535,6 @@ let data = {
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5544.html"
         },
         {
-            "tt_num": "G5552",
-            "name": "電気回路学",
-            "semester": "後期",
-            "period": [
-                "金7",
-                "金8"
-            ],
-            "teacher": [
-                "薮 哲郎"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5552.html"
-        },
-        {
             "tt_num": "G5731",
             "name": "調理学実習",
             "semester": "後期",
@@ -12932,7 +12633,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "新谷 遙"
+                "新谷 遥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6547.html"
@@ -13193,7 +12894,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "担当教員未定"
+                "橋本 要"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3806.html"
@@ -13413,7 +13114,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "担当教員未定"
+                "兒玉 友"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5303.html"
@@ -13624,7 +13325,9 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "担当教員未定"
+                "担当教員未定",
+                "横山 真貴子",
+                "佐川 早季子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8075.html"
@@ -13765,9 +13468,7 @@ let data = {
             ],
             "teacher": [
                 "金原 正明",
-                "巽 善信",
-                "荻野 裕子",
-                "齊藤 純"
+                "巽 善信"
             ],
             "credits": 3,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1003.html"
@@ -13864,6 +13565,357 @@ let data = {
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9979.html"
+        },
+        {
+            "tt_num": "G9001",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "赤沢 早人"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9001.html"
+        },
+        {
+            "tt_num": "G9002",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "生田 周二"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9002.html"
+        },
+        {
+            "tt_num": "G9003",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "板橋 孝幸"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9003.html"
+        },
+        {
+            "tt_num": "G9004",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "片岡 弘勝"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9004.html"
+        },
+        {
+            "tt_num": "G9005",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "橋崎 頼子"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9005.html"
+        },
+        {
+            "tt_num": "G9006",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "市来 百合子"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9006.html"
+        },
+        {
+            "tt_num": "G9007",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "出口 拓彦"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9007.html"
+        },
+        {
+            "tt_num": "G9008",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "中山 留美子"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9008.html"
+        },
+        {
+            "tt_num": "G9009",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "横山 真貴子"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9009.html"
+        },
+        {
+            "tt_num": "G9010",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "廣瀬 聡弥"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9010.html"
+        },
+        {
+            "tt_num": "G9011",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "木下 理恵"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9011.html"
+        },
+        {
+            "tt_num": "G9012",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "越野 和之"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9012.html"
+        },
+        {
+            "tt_num": "G9013",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "根來 秀樹"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9013.html"
+        },
+        {
+            "tt_num": "G9014",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "堀田 千絵"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9014.html"
+        },
+        {
+            "tt_num": "G9015",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "富井 奈菜実"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9015.html"
+        },
+        {
+            "tt_num": "G9016",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "棚橋 尚子"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9016.html"
+        },
+        {
+            "tt_num": "G9017",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "橋本 昭典"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9017.html"
+        },
+        {
+            "tt_num": "G9018",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "日高 佳紀"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9018.html"
+        },
+        {
+            "tt_num": "G9019",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "前田 広幸"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9019.html"
+        },
+        {
+            "tt_num": "G9020",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "有馬 義貴"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9020.html"
+        },
+        {
+            "tt_num": "G9021",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "今 正秀"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9021.html"
+        },
+        {
+            "tt_num": "G9022",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "根田 克彦"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9022.html"
+        },
+        {
+            "tt_num": "G9039",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "藤井 智康"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9039.html"
+        },
+        {
+            "tt_num": "G9048",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "前田 則子"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9048.html"
+        },
+        {
+            "tt_num": "G9053",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "大山 明彦"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9053.html"
+        },
+        {
+            "tt_num": "G9059",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "高橋 豪仁"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9059.html"
+        },
+        {
+            "tt_num": "G9073",
+            "name": "卒業論文",
+            "semester": "通年",
+            "period": [
+                "集中"
+            ],
+            "teacher": [
+                "米倉 陽子"
+            ],
+            "credits": 6,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9073.html"
         }
     ]
 };
