@@ -9,7 +9,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "河本 大地"
+                "河本　大地"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0052.html"
@@ -23,8 +23,8 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "中澤 静男",
-                "大西 浩明"
+                "中澤　静男",
+                "大西　浩明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0002.html"
@@ -38,7 +38,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "太田 満"
+                "太田　満"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0041.html"
@@ -52,8 +52,8 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "中澤 静男",
-                "大西 浩明"
+                "中澤　静男",
+                "大西　浩明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0011.html"
@@ -67,8 +67,8 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "中澤 静男",
-                "大西 浩明"
+                "中澤　静男",
+                "大西　浩明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0040.html"
@@ -82,7 +82,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "生田 周二"
+                "生田　周二"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0030.html"
@@ -96,7 +96,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "狩野 宏明"
+                "狩野　宏明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0036.html"
@@ -110,8 +110,8 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "中澤 静男",
-                "大西 浩明"
+                "中澤　静男",
+                "大西　浩明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0003.html"
@@ -125,10 +125,38 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "北山 聡佳"
+                "北山　聡佳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0042.html"
+        },
+        {
+            "tt_num": "G0044",
+            "name": "奈良と文学",
+            "semester": "後期",
+            "period": [
+                "火3",
+                "火4"
+            ],
+            "teacher": [
+                "米田　猛"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0044.html"
+        },
+        {
+            "tt_num": "G8501",
+            "name": "大学で学び直す「高校世界史」",
+            "semester": "後期",
+            "period": [
+                "火3",
+                "火4"
+            ],
+            "teacher": [
+                "西田　慎"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8501.html"
         },
         {
             "tt_num": "G0004",
@@ -139,8 +167,8 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "中澤 静男",
-                "大西 浩明"
+                "中澤　静男",
+                "大西　浩明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0004.html"
@@ -154,8 +182,8 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "中澤 静男",
-                "大西 浩明"
+                "中澤　静男",
+                "大西　浩明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0005.html"
@@ -169,21 +197,21 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "今 正秀"
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0009.html"
         },
         {
             "tt_num": "G0097",
-            "name": "古典文学再入門 『竹取物語』を読み直す",
+            "name": "古典文学再入門　『竹取物語』を読み直す",
             "semester": "後期",
             "period": [
                 "金1",
                 "金2"
             ],
             "teacher": [
-                "有馬 義貴"
+                "有馬　義貴"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0097.html"
@@ -197,7 +225,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "梶原 篤"
+                "梶原　篤"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0078.html"
@@ -211,7 +239,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "中川 愛"
+                "中川　愛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0028.html"
@@ -225,7 +253,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "中山 留美子"
+                "中山　留美子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0037.html"
@@ -239,22 +267,22 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "松山 豊樹",
-                "松井 淳",
-                "伊藤 直治",
-                "石田 正樹",
-                "信川 正順",
-                "高橋 亮",
-                "山崎 祥子",
-                "和田 穣隆",
-                "川崎 謙一郎",
-                "藤井 智康",
-                "常田 琢",
-                "近藤 裕",
-                "片岡 佐知子",
-                "高木 祥司",
-                "小川 泰朗",
-                "舟橋 友香",
+                "松山　豊樹",
+                "松井　淳",
+                "伊藤　直治",
+                "石田　正樹",
+                "信川　正順",
+                "高橋　亮",
+                "山崎　祥子",
+                "和田　穣隆",
+                "川崎　謙一郎",
+                "藤井　智康",
+                "常田　琢",
+                "近藤　裕",
+                "片岡　佐知子",
+                "高木　祥司",
+                "小川　泰朗",
+                "舟橋　友香",
                 "担当教員未定"
             ],
             "credits": 2,
@@ -269,7 +297,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "金原 正明"
+                "金原　正明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0043.html"
@@ -283,7 +311,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "辻井 啓之"
+                "辻井　啓之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0031.html"
@@ -297,7 +325,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "髙木 祐介"
+                "髙木　祐介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0077.html"
@@ -311,9 +339,9 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "川崎 謙一郎",
-                "高橋 亮",
-                "高木 祥司"
+                "川崎　謙一郎",
+                "高橋　亮",
+                "高木　祥司"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0072.html"
@@ -327,7 +355,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "森本 弘一"
+                "森本　弘一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0063.html"
@@ -341,7 +369,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "中村 元彦"
+                "中村　元彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0038.html"
@@ -355,7 +383,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "生田 周二"
+                "生田　周二"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0080.html"
@@ -369,29 +397,29 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "生田 周二",
-                "越野 和之",
-                "今 正秀",
-                "吉村 雅仁",
-                "河崎 智恵",
-                "和泉元 千春",
-                "橋崎 頼子",
-                "前田 康二"
+                "生田　周二",
+                "越野　和之",
+                "今　正秀",
+                "吉村　雅仁",
+                "河崎　智恵",
+                "和泉元　千春",
+                "橋崎　頼子",
+                "前田　康二"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0006.html"
         },
         {
             "tt_num": "G0007",
-            "name": "奈良と教育 -ここはどこ？ 私はだれ？-",
+            "name": "奈良と教育　-ここはどこ？　私はだれ？-",
             "semester": "前期",
             "period": [
                 "火9",
                 "火10"
             ],
             "teacher": [
-                "赤沢 早人",
-                "西村 拓生"
+                "赤沢　早人",
+                "西村　拓生"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0007.html"
@@ -405,8 +433,8 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "中澤 静男",
-                "大西 浩明"
+                "中澤　静男",
+                "大西　浩明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8503.html"
@@ -420,7 +448,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "阪東 俊行"
+                "阪東　俊行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0010.html"
@@ -434,7 +462,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "柿本 篤子"
+                "柿本　篤子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8502.html"
@@ -448,7 +476,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0106.html"
@@ -462,7 +490,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0110.html"
@@ -476,7 +504,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "門田 守"
+                "門田　守"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0114.html"
@@ -490,7 +518,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "藤岡 住恵"
+                "藤岡　住恵"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0116.html"
@@ -504,7 +532,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "マーティン パーソンズ"
+                "マーティン　パーソンズ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0119.html"
@@ -518,7 +546,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "和泉元 千春"
+                "和泉元　千春"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0300.html"
@@ -532,7 +560,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "湯通堂 誠"
+                "湯通堂　誠"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0302.html"
@@ -546,7 +574,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "徳永 和博"
+                "徳永　和博"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0101.html"
@@ -560,7 +588,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0104.html"
@@ -574,7 +602,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "竹澤 由記子"
+                "竹澤　由記子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0107.html"
@@ -588,7 +616,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "山本 修"
+                "山本　修"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0112.html"
@@ -602,7 +630,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0108.html"
@@ -616,10 +644,24 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0111.html"
+        },
+        {
+            "tt_num": "G0115",
+            "name": "英語Ｃ",
+            "semester": "後期",
+            "period": [
+                "月1",
+                "月2"
+            ],
+            "teacher": [
+                "門田　守"
+            ],
+            "credits": 1,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0115.html"
         },
         {
             "tt_num": "G0117",
@@ -630,7 +672,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "藤岡 住恵"
+                "藤岡　住恵"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0117.html"
@@ -644,7 +686,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "マーティン パーソンズ"
+                "マーティン　パーソンズ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0120.html"
@@ -658,7 +700,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "和泉元 千春"
+                "和泉元　千春"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0301.html"
@@ -672,7 +714,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "湯通堂 誠"
+                "湯通堂　誠"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0303.html"
@@ -686,7 +728,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0105.html"
@@ -700,7 +742,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "竹澤 由記子"
+                "竹澤　由記子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0109.html"
@@ -714,7 +756,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "山本 修"
+                "山本　修"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0113.html"
@@ -728,7 +770,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "徳永 和博"
+                "徳永　和博"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0153.html"
@@ -742,7 +784,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "田島 昭洋"
+                "田島　昭洋"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0121.html"
@@ -756,7 +798,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "岩村 和泉"
+                "岩村　和泉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0125.html"
@@ -770,7 +812,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "荊 明月"
+                "荊　明月"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0127.html"
@@ -784,7 +826,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "趙 杰"
+                "趙　杰"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0133.html"
@@ -798,7 +840,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "楊 莉"
+                "楊　莉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0135.html"
@@ -812,7 +854,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "丹原 邦博"
+                "丹原　邦博"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0160.html"
@@ -826,7 +868,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "田島 昭洋"
+                "田島　昭洋"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0122.html"
@@ -840,7 +882,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "楊 莉"
+                "楊　莉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0128.html"
@@ -854,7 +896,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "橋本 昭典"
+                "橋本　昭典"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0134.html"
@@ -868,7 +910,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "阪村 圭英子"
+                "阪村　圭英子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0145.html"
@@ -882,7 +924,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "丹原 邦博"
+                "丹原　邦博"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0161.html"
@@ -896,10 +938,10 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "高橋 豪仁",
-                "松井 良明",
-                "竹村 匡弥",
-                "井上 邦子"
+                "高橋　豪仁",
+                "松井　良明",
+                "竹村　匡弥",
+                "井上　邦子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0600.html"
@@ -913,7 +955,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "松井 良明"
+                "松井　良明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0613.html"
@@ -927,7 +969,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "竹村 匡弥"
+                "竹村　匡弥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0614.html"
@@ -941,7 +983,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "高橋 豪仁"
+                "高橋　豪仁"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0615.html"
@@ -955,7 +997,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "井上 邦子"
+                "井上　邦子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0621.html"
@@ -969,10 +1011,10 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "高橋 豪仁",
-                "松井 良明",
-                "竹村 匡弥",
-                "井上 邦子"
+                "高橋　豪仁",
+                "松井　良明",
+                "竹村　匡弥",
+                "井上　邦子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0601.html"
@@ -986,7 +1028,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "松井 良明"
+                "松井　良明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0617.html"
@@ -1000,7 +1042,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "竹村 匡弥"
+                "竹村　匡弥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0618.html"
@@ -1014,7 +1056,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "高橋 豪仁"
+                "高橋　豪仁"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0619.html"
@@ -1028,7 +1070,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "井上 邦子"
+                "井上　邦子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0622.html"
@@ -1042,10 +1084,10 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "立 正伸",
-                "井上 洋一",
-                "吉田 寿",
-                "髙木 祐介"
+                "立　正伸",
+                "井上　洋一",
+                "吉田　寿",
+                "髙木　祐介"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0602.html"
@@ -1059,7 +1101,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "立 正伸"
+                "立　正伸"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0604.html"
@@ -1073,7 +1115,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "井上 洋一"
+                "井上　洋一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0605.html"
@@ -1087,7 +1129,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "吉田 寿"
+                "吉田　寿"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0606.html"
@@ -1101,7 +1143,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "髙木 祐介"
+                "髙木　祐介"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0607.html"
@@ -1115,10 +1157,10 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "立 正伸",
-                "吉田 寿",
-                "髙木 祐介",
-                "宮尾 夏姫"
+                "立　正伸",
+                "吉田　寿",
+                "髙木　祐介",
+                "宮尾　夏姫"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0603.html"
@@ -1132,7 +1174,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "立 正伸"
+                "立　正伸"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0608.html"
@@ -1146,7 +1188,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "宮尾 夏姫"
+                "宮尾　夏姫"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0609.html"
@@ -1160,7 +1202,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "吉田 寿"
+                "吉田　寿"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0610.html"
@@ -1174,7 +1216,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "髙木 祐介"
+                "髙木　祐介"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0611.html"
@@ -1188,7 +1230,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "伊藤 剛和"
+                "伊藤　剛和"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0505.html"
@@ -1202,7 +1244,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "伊藤 剛和"
+                "伊藤　剛和"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0502.html"
@@ -1216,7 +1258,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "古田 壮宏"
+                "古田　壮宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0501.html"
@@ -1230,8 +1272,8 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "伊藤 直治",
-                "古田 壮宏"
+                "伊藤　直治",
+                "古田　壮宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0503.html"
@@ -1245,7 +1287,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "奥田 喜道"
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0400.html"
@@ -1259,7 +1301,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "奥田 喜道"
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0401.html"
@@ -1273,7 +1315,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "門田 守"
+                "門田　守"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0210.html"
@@ -1287,7 +1329,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0214.html"
@@ -1301,7 +1343,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "マーティン パーソンズ"
+                "マーティン　パーソンズ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0216.html"
@@ -1315,7 +1357,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "藤岡 住恵"
+                "藤岡　住恵"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0219.html"
@@ -1329,7 +1371,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0223.html"
@@ -1343,7 +1385,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "徳永 和博"
+                "徳永　和博"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0200.html"
@@ -1357,7 +1399,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0201.html"
@@ -1371,7 +1413,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "佐藤 臨太郎"
+                "佐藤　臨太郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0202.html"
@@ -1385,7 +1427,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "竹澤 由記子"
+                "竹澤　由記子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0204.html"
@@ -1399,7 +1441,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "山本 修"
+                "山本　修"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0212.html"
@@ -1413,7 +1455,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "荊 明月"
+                "荊　明月"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0129.html"
@@ -1427,7 +1469,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "趙 杰"
+                "趙　杰"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0131.html"
@@ -1441,7 +1483,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "田島 昭洋"
+                "田島　昭洋"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0137.html"
@@ -1455,7 +1497,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "岩村 和泉"
+                "岩村　和泉"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0147.html"
@@ -1469,10 +1511,24 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "井上 直樹"
+                "井上　直樹"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0226.html"
+        },
+        {
+            "tt_num": "G0211",
+            "name": "外国語コミュニケーション（英語）Ｍ",
+            "semester": "後期",
+            "period": [
+                "月3",
+                "月4"
+            ],
+            "teacher": [
+                "門田　守"
+            ],
+            "credits": 1,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0211.html"
         },
         {
             "tt_num": "G0215",
@@ -1483,7 +1539,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0215.html"
@@ -1497,7 +1553,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "マーティン パーソンズ"
+                "マーティン　パーソンズ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0217.html"
@@ -1511,7 +1567,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "藤岡 住恵"
+                "藤岡　住恵"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0220.html"
@@ -1525,7 +1581,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0224.html"
@@ -1539,7 +1595,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "佐藤 臨太郎"
+                "佐藤　臨太郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0203.html"
@@ -1553,7 +1609,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "竹澤 由記子"
+                "竹澤　由記子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0205.html"
@@ -1567,7 +1623,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "山本 修"
+                "山本　修"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0213.html"
@@ -1581,7 +1637,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0221.html"
@@ -1595,7 +1651,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "徳永 和博"
+                "徳永　和博"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0222.html"
@@ -1609,7 +1665,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "荊 明月"
+                "荊　明月"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0130.html"
@@ -1623,7 +1679,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "趙 杰"
+                "趙　杰"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0132.html"
@@ -1637,7 +1693,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "田島 昭洋"
+                "田島　昭洋"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0140.html"
@@ -1651,7 +1707,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "岩村 和泉"
+                "岩村　和泉"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0146.html"
@@ -1665,7 +1721,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "井上 直樹"
+                "井上　直樹"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0227.html"
@@ -1679,11 +1735,11 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "越野 和之",
-                "木下 理恵",
-                "富井 奈菜実",
-                "堀田 千絵",
-                "全 有耳"
+                "越野　和之",
+                "木下　理恵",
+                "富井　奈菜実",
+                "堀田　千絵",
+                "全　有耳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2222.html"
@@ -1697,7 +1753,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "板橋 孝幸"
+                "板橋　孝幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2132.html"
@@ -1711,7 +1767,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "浅井 健介"
+                "浅井　健介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2134.html"
@@ -1725,7 +1781,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "板橋 孝幸"
+                "板橋　孝幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2148.html"
@@ -1739,7 +1795,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "浅井 健介"
+                "浅井　健介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2149.html"
@@ -1753,7 +1809,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "大西 賢治"
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2123.html"
@@ -1767,7 +1823,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "堀 麻佑子"
+                "堀　麻佑子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2153.html"
@@ -1781,7 +1837,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "粕谷 圭佑"
+                "粕谷　圭佑"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2140.html"
@@ -1795,7 +1851,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "山中 矢展"
+                "山中　矢展"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2157.html"
@@ -1809,7 +1865,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "赤沢 早人"
+                "赤沢　早人"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2128.html"
@@ -1823,7 +1879,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "橋崎 頼子"
+                "橋崎　頼子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2137.html"
@@ -1837,7 +1893,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "橋崎 頼子"
+                "橋崎　頼子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2129.html"
@@ -1851,7 +1907,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "赤沢 早人"
+                "赤沢　早人"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2147.html"
@@ -1865,11 +1921,11 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "越野 和之",
-                "木下 理恵",
-                "富井 奈菜実",
-                "堀田 千絵",
-                "全 有耳"
+                "越野　和之",
+                "木下　理恵",
+                "富井　奈菜実",
+                "堀田　千絵",
+                "全　有耳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2240.html"
@@ -1883,7 +1939,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "山中 矢展"
+                "山中　矢展"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2144.html"
@@ -1897,7 +1953,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "粕谷 圭佑"
+                "粕谷　圭佑"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2158.html"
@@ -1911,7 +1967,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "堀 麻佑子"
+                "堀　麻佑子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2156.html"
@@ -1925,13 +1981,13 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "橋崎 頼子",
-                "高橋 亮",
-                "川崎 謙一郎",
-                "笠次 良爾",
-                "世良 啓太",
-                "山中 矢展",
-                "粕谷 圭佑"
+                "橋崎　頼子",
+                "高橋　亮",
+                "川崎　謙一郎",
+                "笠次　良爾",
+                "世良　啓太",
+                "山中　矢展",
+                "粕谷　圭佑"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2220.html"
@@ -1945,11 +2001,11 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "石井 僚",
-                "石田 正樹",
-                "和田 穣隆",
-                "米倉 陽子",
-                "中川 愛"
+                "石井　僚",
+                "石田　正樹",
+                "和田　穣隆",
+                "米倉　陽子",
+                "中川　愛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2221.html"
@@ -1963,12 +2019,12 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "横山 真貴子",
-                "大山 明彦",
-                "金原 正明",
-                "橋本 昭典",
-                "北條 美香代",
-                "大西 賢治"
+                "横山　真貴子",
+                "大山　明彦",
+                "金原　正明",
+                "橋本　昭典",
+                "北條　美香代",
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2242.html"
@@ -1982,11 +2038,11 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "堀田 千絵",
-                "太田 満",
-                "渡邉 伸一",
-                "豊田 宗児",
-                "原山 健一"
+                "堀田　千絵",
+                "太田　満",
+                "渡邉　伸一",
+                "豊田　宗児",
+                "原山　健一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2243.html"
@@ -2000,13 +2056,13 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "橋崎 頼子",
-                "高橋 亮",
-                "川崎 謙一郎",
-                "笠次 良爾",
-                "世良 啓太",
-                "山中 矢展",
-                "粕谷 圭佑"
+                "橋崎　頼子",
+                "高橋　亮",
+                "川崎　謙一郎",
+                "笠次　良爾",
+                "世良　啓太",
+                "山中　矢展",
+                "粕谷　圭佑"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2220.html"
@@ -2020,11 +2076,11 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "石井 僚",
-                "石田 正樹",
-                "和田 穣隆",
-                "米倉 陽子",
-                "中川 愛"
+                "石井　僚",
+                "石田　正樹",
+                "和田　穣隆",
+                "米倉　陽子",
+                "中川　愛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2221.html"
@@ -2038,12 +2094,12 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "横山 真貴子",
-                "大山 明彦",
-                "金原 正明",
-                "橋本 昭典",
-                "北條 美香代",
-                "大西 賢治"
+                "横山　真貴子",
+                "大山　明彦",
+                "金原　正明",
+                "橋本　昭典",
+                "北條　美香代",
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2242.html"
@@ -2057,11 +2113,11 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "堀田 千絵",
-                "太田 満",
-                "渡邉 伸一",
-                "豊田 宗児",
-                "原山 健一"
+                "堀田　千絵",
+                "太田　満",
+                "渡邉　伸一",
+                "豊田　宗児",
+                "原山　健一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2243.html"
@@ -2075,7 +2131,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "石井 僚"
+                "石井　僚"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1568.html"
@@ -2089,7 +2145,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "中山 留美子"
+                "中山　留美子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1569.html"
@@ -2103,7 +2159,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "赤沢 早人"
+                "赤沢　早人"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1564.html"
@@ -2117,7 +2173,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "柿本 篤子"
+                "柿本　篤子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1565.html"
@@ -2131,7 +2187,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "堀 麻佑子"
+                "堀　麻佑子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1570.html"
@@ -2145,7 +2201,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "出口 拓彦"
+                "出口　拓彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1571.html"
@@ -2159,7 +2215,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "赤沢 早人"
+                "赤沢　早人"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1566.html"
@@ -2173,7 +2229,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "柿本 篤子"
+                "柿本　篤子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1567.html"
@@ -2187,7 +2243,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "橋崎 頼子"
+                "橋崎　頼子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2020.html"
@@ -2201,7 +2257,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "板橋 孝幸"
+                "板橋　孝幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2130.html"
@@ -2215,7 +2271,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "山中 矢展"
+                "山中　矢展"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2143.html"
@@ -2229,8 +2285,8 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "赤沢 早人",
-                "小柳 和喜雄"
+                "赤沢　早人",
+                "小柳　和喜雄"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2223.html"
@@ -2244,10 +2300,24 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "粕谷 貴志"
+                "粕谷　貴志"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1572.html"
+        },
+        {
+            "tt_num": "G1573",
+            "name": "教育相談・進路指導（キャリア・カウンセリングを含む。）★（生徒指導・教育相談ⅡＡ）",
+            "semester": "後期",
+            "period": [
+                "水1",
+                "水2"
+            ],
+            "teacher": [
+                "市来　百合子"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1573.html"
         },
         {
             "tt_num": "G2241",
@@ -2258,8 +2328,8 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "赤沢 早人",
-                "小柳 和喜雄"
+                "赤沢　早人",
+                "小柳　和喜雄"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2241.html"
@@ -2273,7 +2343,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "粕谷 貴志"
+                "粕谷　貴志"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1574.html"
@@ -2287,10 +2357,24 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2029.html"
+        },
+        {
+            "tt_num": "G2131",
+            "name": "道徳教育の理論と方法A▲（道徳教育の理論と方法（初等））",
+            "semester": "後期",
+            "period": [
+                "木5",
+                "木6"
+            ],
+            "teacher": [
+                "浅井　健介"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2131.html"
         },
         {
             "tt_num": "G2224",
@@ -2301,10 +2385,24 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "山中 矢展"
+                "山中　矢展"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2224.html"
+        },
+        {
+            "tt_num": "G2239",
+            "name": "特別活動の理論と方法B",
+            "semester": "後期",
+            "period": [
+                "火1",
+                "火2"
+            ],
+            "teacher": [
+                "浅井　健介"
+            ],
+            "credits": 1,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2239.html"
         },
         {
             "tt_num": "G2237",
@@ -2315,7 +2413,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2237.html"
@@ -2329,7 +2427,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "粕谷 圭佑"
+                "粕谷　圭佑"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2238.html"
@@ -2343,8 +2441,8 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "橋崎 頼子",
-                "片岡 弘勝"
+                "橋崎　頼子",
+                "片岡　弘勝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2199.html"
@@ -2358,9 +2456,9 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "出口 拓彦",
-                "中山 留美子",
-                "石井 僚"
+                "出口　拓彦",
+                "中山　留美子",
+                "石井　僚"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2200.html"
@@ -2374,8 +2472,8 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "廣瀬 聡弥",
-                "大西 賢治"
+                "廣瀬　聡弥",
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2201.html"
@@ -2389,12 +2487,12 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "越野 和之",
-                "木下 理恵",
-                "富井 奈菜実",
-                "堀田 千絵",
-                "全 有耳",
-                "今泉 祥子"
+                "越野　和之",
+                "木下　理恵",
+                "富井　奈菜実",
+                "堀田　千絵",
+                "全　有耳",
+                "今泉　祥子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2202.html"
@@ -2408,11 +2506,27 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "棚橋 尚子",
-                "橋本 昭典"
+                "棚橋　尚子",
+                "橋本　昭典"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2203.html"
+        },
+        {
+            "tt_num": "G2204",
+            "name": "教職実践演習（幼小中高）〔社会〕",
+            "semester": "後期",
+            "period": [
+                "金9",
+                "金10"
+            ],
+            "teacher": [
+                "西田　慎",
+                "太田　満",
+                "森口　洋一"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2204.html"
         },
         {
             "tt_num": "G2205",
@@ -2423,12 +2537,12 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "川崎 謙一郎",
-                "伊藤 直治",
-                "高橋 亮",
-                "近藤 裕",
-                "高木 祥司",
-                "舟橋 友香"
+                "川崎　謙一郎",
+                "伊藤　直治",
+                "高橋　亮",
+                "近藤　裕",
+                "高木　祥司",
+                "舟橋　友香"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2205.html"
@@ -2442,9 +2556,9 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "森本 弘一",
-                "金原 正明",
-                "石井 俊行"
+                "森本　弘一",
+                "金原　正明",
+                "石井　俊行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2206.html"
@@ -2458,8 +2572,8 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "北條 美香代",
-                "劉 麟玉"
+                "北條　美香代",
+                "劉　麟玉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2207.html"
@@ -2473,10 +2587,10 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "宇田 秀士",
-                "竹内 晋平",
-                "大山 明彦",
-                "狩野 宏明"
+                "宇田　秀士",
+                "竹内　晋平",
+                "大山　明彦",
+                "狩野　宏明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2208.html"
@@ -2490,8 +2604,8 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "髙木 祐介",
-                "宮尾 夏姫"
+                "髙木　祐介",
+                "宮尾　夏姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2209.html"
@@ -2505,10 +2619,10 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "杉山 薫",
-                "中川 愛",
-                "立松 麻衣子",
-                "村上 睦美"
+                "杉山　薫",
+                "中川　愛",
+                "立松　麻衣子",
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2210.html"
@@ -2522,9 +2636,9 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "世良 啓太",
-                "薮 哲郎",
-                "箕作 和彦"
+                "世良　啓太",
+                "薮　哲郎",
+                "箕作　和彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2211.html"
@@ -2538,7 +2652,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "佐藤 臨太郎"
+                "佐藤　臨太郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2212.html"
@@ -2566,8 +2680,8 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "谷川 雅夫",
-                "豊田 宗児"
+                "谷川　雅夫",
+                "豊田　宗児"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2218.html"
@@ -2581,13 +2695,13 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "谷川 雅夫",
-                "赤沢 早人",
-                "福光 佐今",
-                "豊田 宗児",
-                "伊藤 剛和",
-                "古田 壮宏",
-                "北山 聡佳"
+                "谷川　雅夫",
+                "赤沢　早人",
+                "福光　佐今",
+                "豊田　宗児",
+                "伊藤　剛和",
+                "古田　壮宏",
+                "北山　聡佳"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0251.html"
@@ -2601,13 +2715,13 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "豊田 宗児",
-                "赤沢 早人",
-                "福光 佐今",
-                "伊藤 剛和",
-                "谷川 雅夫",
-                "古田 壮宏",
-                "北山 聡佳"
+                "豊田　宗児",
+                "赤沢　早人",
+                "福光　佐今",
+                "伊藤　剛和",
+                "谷川　雅夫",
+                "古田　壮宏",
+                "北山　聡佳"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0252.html"
@@ -2621,13 +2735,13 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "福光 佐今",
-                "赤沢 早人",
-                "豊田 宗児",
-                "伊藤 剛和",
-                "谷川 雅夫",
-                "古田 壮宏",
-                "北山 聡佳"
+                "福光　佐今",
+                "赤沢　早人",
+                "豊田　宗児",
+                "伊藤　剛和",
+                "谷川　雅夫",
+                "古田　壮宏",
+                "北山　聡佳"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0253.html"
@@ -2641,13 +2755,13 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "北山 聡佳",
-                "赤沢 早人",
-                "福光 佐今",
-                "豊田 宗児",
-                "伊藤 剛和",
-                "谷川 雅夫",
-                "古田 壮宏"
+                "北山　聡佳",
+                "赤沢　早人",
+                "福光　佐今",
+                "豊田　宗児",
+                "伊藤　剛和",
+                "谷川　雅夫",
+                "古田　壮宏"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0254.html"
@@ -2661,13 +2775,13 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "谷川 雅夫",
-                "赤沢 早人",
-                "福光 佐今",
-                "豊田 宗児",
-                "伊藤 剛和",
-                "古田 壮宏",
-                "北山 聡佳"
+                "谷川　雅夫",
+                "赤沢　早人",
+                "福光　佐今",
+                "豊田　宗児",
+                "伊藤　剛和",
+                "古田　壮宏",
+                "北山　聡佳"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0255.html"
@@ -2681,13 +2795,13 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "豊田 宗児",
-                "赤沢 早人",
-                "福光 佐今",
-                "伊藤 剛和",
-                "谷川 雅夫",
-                "古田 壮宏",
-                "北山 聡佳"
+                "豊田　宗児",
+                "赤沢　早人",
+                "福光　佐今",
+                "伊藤　剛和",
+                "谷川　雅夫",
+                "古田　壮宏",
+                "北山　聡佳"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0256.html"
@@ -2701,13 +2815,13 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "福光 佐今",
-                "赤沢 早人",
-                "豊田 宗児",
-                "伊藤 剛和",
-                "谷川 雅夫",
-                "古田 壮宏",
-                "北山 聡佳"
+                "福光　佐今",
+                "赤沢　早人",
+                "豊田　宗児",
+                "伊藤　剛和",
+                "谷川　雅夫",
+                "古田　壮宏",
+                "北山　聡佳"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0257.html"
@@ -2721,13 +2835,13 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "北山 聡佳",
-                "赤沢 早人",
-                "福光 佐今",
-                "豊田 宗児",
-                "伊藤 剛和",
-                "谷川 雅夫",
-                "古田 壮宏"
+                "北山　聡佳",
+                "赤沢　早人",
+                "福光　佐今",
+                "豊田　宗児",
+                "伊藤　剛和",
+                "谷川　雅夫",
+                "古田　壮宏"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0258.html"
@@ -2740,8 +2854,8 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "竹村 謙司",
-                "柿本 篤子"
+                "竹村　謙司",
+                "柿本　篤子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2225.html"
@@ -2754,9 +2868,9 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "竹村 謙司",
-                "赤沢 早人",
-                "橋崎 頼子",
+                "竹村　謙司",
+                "赤沢　早人",
+                "橋崎　頼子",
                 "担当教員未定"
             ],
             "credits": 1,
@@ -2771,9 +2885,9 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "竹村 謙司",
-                "赤沢 早人",
-                "橋崎 頼子",
+                "竹村　謙司",
+                "赤沢　早人",
+                "橋崎　頼子",
                 "担当教員未定"
             ],
             "credits": 1,
@@ -2788,7 +2902,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "橋崎 頼子"
+                "橋崎　頼子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2161.html"
@@ -2802,7 +2916,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "橋崎 頼子"
+                "橋崎　頼子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2135.html"
@@ -2816,7 +2930,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2145.html"
@@ -2830,9 +2944,9 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "竹村 謙司",
-                "赤沢 早人",
-                "橋崎 頼子",
+                "竹村　謙司",
+                "赤沢　早人",
+                "橋崎　頼子",
                 "担当教員未定"
             ],
             "credits": 1,
@@ -2847,7 +2961,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "太田 満"
+                "太田　満"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2021.html"
@@ -2861,7 +2975,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "森口 洋一"
+                "森口　洋一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2022.html"
@@ -2875,9 +2989,9 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "山崎 祥子",
-                "松山 豊樹",
-                "片岡 佐知子"
+                "山崎　祥子",
+                "松山　豊樹",
+                "片岡　佐知子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2045.html"
@@ -2891,7 +3005,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "今 正秀"
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3447.html"
@@ -2905,7 +3019,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "西田 慎"
+                "西田　慎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3455.html"
@@ -2919,7 +3033,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "根田 克彦"
+                "根田　克彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3484.html"
@@ -2933,7 +3047,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "奥田 尚子"
+                "奥田　尚子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4727.html"
@@ -2947,7 +3061,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "福田 清美"
+                "福田　清美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4730.html"
@@ -2961,7 +3075,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4753.html"
@@ -2975,7 +3089,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "狩野 宏明"
+                "狩野　宏明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4841.html"
@@ -2989,11 +3103,11 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "有馬 義貴",
-                "前田 広幸",
-                "日高 佳紀",
-                "橋本 昭典",
-                "棚橋 尚子"
+                "有馬　義貴",
+                "前田　広幸",
+                "日高　佳紀",
+                "橋本　昭典",
+                "棚橋　尚子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1537.html"
@@ -3007,7 +3121,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "舟橋 友香"
+                "舟橋　友香"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2032.html"
@@ -3021,7 +3135,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "渡邉 伸一"
+                "渡邉　伸一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3517.html"
@@ -3035,7 +3149,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4767.html"
@@ -3049,7 +3163,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "大山 明彦"
+                "大山　明彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4866.html"
@@ -3063,7 +3177,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "狩野 宏明"
+                "狩野　宏明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4891.html"
@@ -3077,7 +3191,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "北山 聡佳"
+                "北山　聡佳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5021.html"
@@ -3091,7 +3205,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "豊田 宗児"
+                "豊田　宗児"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5030.html"
@@ -3105,7 +3219,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "立 正伸"
+                "立　正伸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5305.html"
@@ -3119,7 +3233,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "薮 哲郎"
+                "薮　哲郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5540.html"
@@ -3133,8 +3247,8 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "伊藤 剛和",
-                "奥田 喜道"
+                "伊藤　剛和",
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5558.html"
@@ -3148,7 +3262,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "杉山 薫"
+                "杉山　薫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5713.html"
@@ -3162,7 +3276,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "越野 和之"
+                "越野　和之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5911.html"
@@ -3176,9 +3290,9 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "廣瀬 聡弥",
-                "横山 真貴子",
-                "大西 賢治"
+                "廣瀬　聡弥",
+                "横山　真貴子",
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6122.html"
@@ -3192,7 +3306,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6902.html"
@@ -3206,8 +3320,8 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "新田 恭子",
-                "川北 成彦"
+                "新田　恭子",
+                "川北　成彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1515.html"
@@ -3221,7 +3335,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1541.html"
@@ -3235,8 +3349,8 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "川北 成彦",
-                "新田 恭子"
+                "川北　成彦",
+                "新田　恭子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1547.html"
@@ -3250,7 +3364,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "森口 洋一"
+                "森口　洋一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2024.html"
@@ -3264,7 +3378,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "近藤 裕"
+                "近藤　裕"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2035.html"
@@ -3278,7 +3392,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "村上 睦美"
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2106.html"
@@ -3292,8 +3406,8 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "横山 真貴子",
-                "米田 猛"
+                "横山　真貴子",
+                "米田　猛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2188.html"
@@ -3307,7 +3421,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "横山 恵理"
+                "横山　恵理"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3059.html"
@@ -3321,7 +3435,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "吉村 公宏"
+                "吉村　公宏"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3221.html"
@@ -3335,7 +3449,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "マーティン パーソンズ"
+                "マーティン　パーソンズ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3273.html"
@@ -3349,7 +3463,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "太田 満"
+                "太田　満"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3411.html"
@@ -3363,7 +3477,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "今 正秀"
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3433.html"
@@ -3377,7 +3491,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "奥田 喜道"
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3441.html"
@@ -3391,7 +3505,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "西田 慎"
+                "西田　慎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3452.html"
@@ -3405,7 +3519,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "渡邉 伸一"
+                "渡邉　伸一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3511.html"
@@ -3419,8 +3533,8 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "河本 大地",
-                "根田 克彦"
+                "河本　大地",
+                "根田　克彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3522.html"
@@ -3434,8 +3548,8 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "河本 大地",
-                "根田 克彦"
+                "河本　大地",
+                "根田　克彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3528.html"
@@ -3450,9 +3564,9 @@ let data = {
                 "月7"
             ],
             "teacher": [
-                "松井 淳",
-                "辻野 亮",
-                "村松 大輔"
+                "松井　淳",
+                "辻野　亮",
+                "村松　大輔"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4122.html"
@@ -3466,7 +3580,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4768.html"
@@ -3480,7 +3594,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "福光 佐今"
+                "福光　佐今"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5032.html"
@@ -3494,7 +3608,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "中西 陽"
+                "中西　陽"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5920.html"
@@ -3508,7 +3622,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "若林 隆泰"
+                "若林　隆泰"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5936.html"
@@ -3522,7 +3636,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "和泉元 千春"
+                "和泉元　千春"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6500.html"
@@ -3536,7 +3650,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "森本 弘一"
+                "森本　弘一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1540.html"
@@ -3550,7 +3664,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "石井 俊行"
+                "石井　俊行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1560.html"
@@ -3564,7 +3678,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "兼重 昇"
+                "兼重　昇"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1562.html"
@@ -3578,8 +3692,8 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "横山 真貴子",
-                "棚橋 尚子"
+                "横山　真貴子",
+                "棚橋　尚子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2182.html"
@@ -3593,7 +3707,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "太田 満"
+                "太田　満"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3415.html"
@@ -3607,7 +3721,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "奥田 喜道"
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3458.html"
@@ -3622,8 +3736,8 @@ let data = {
                 "月9"
             ],
             "teacher": [
-                "根田 克彦",
-                "河本 大地"
+                "根田　克彦",
+                "河本　大地"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3523.html"
@@ -3637,7 +3751,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "川崎 謙一郎"
+                "川崎　謙一郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3742.html"
@@ -3652,7 +3766,7 @@ let data = {
                 "月9"
             ],
             "teacher": [
-                "和田 穣隆"
+                "和田　穣隆"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4111.html"
@@ -3666,7 +3780,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "福田 清美"
+                "福田　清美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4738.html"
@@ -3680,7 +3794,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4757.html"
@@ -3694,7 +3808,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "大山 明彦"
+                "大山　明彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4816.html"
@@ -3708,7 +3822,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "福光 佐今"
+                "福光　佐今"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5061.html"
@@ -3722,7 +3836,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "髙木 祐介"
+                "髙木　祐介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5260.html"
@@ -3737,7 +3851,7 @@ let data = {
                 "月9"
             ],
             "teacher": [
-                "薮 哲郎"
+                "薮　哲郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5555.html"
@@ -3751,7 +3865,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "中川 愛"
+                "中川　愛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5707.html"
@@ -3765,7 +3879,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "能勢 ゆかり"
+                "能勢　ゆかり"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5931.html"
@@ -3779,7 +3893,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "赤沢 早人"
+                "赤沢　早人"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6223.html"
@@ -3793,7 +3907,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "吉村 公宏"
+                "吉村　公宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6571.html"
@@ -3807,7 +3921,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "兼重 昇"
+                "兼重　昇"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1575.html"
@@ -3821,7 +3935,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "棚橋 尚子"
+                "棚橋　尚子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3057.html"
@@ -3835,7 +3949,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3220.html"
@@ -3849,7 +3963,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "森口 洋一"
+                "森口　洋一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3412.html"
@@ -3863,7 +3977,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "川崎 謙一郎"
+                "川崎　謙一郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3741.html"
@@ -3877,7 +3991,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "釣井 達也"
+                "釣井　達也"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3746.html"
@@ -3891,7 +4005,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "奥田 尚子"
+                "奥田　尚子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4634.html"
@@ -3905,7 +4019,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4638.html"
@@ -3919,7 +4033,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "林 美音子"
+                "林　美音子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4645.html"
@@ -3933,7 +4047,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "竹内 直"
+                "竹内　直"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4657.html"
@@ -3947,7 +4061,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "前芝 武史"
+                "前芝　武史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4830.html"
@@ -3961,7 +4075,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "高橋 豪仁"
+                "高橋　豪仁"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5290.html"
@@ -3975,7 +4089,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "村上 睦美"
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5734.html"
@@ -3989,12 +4103,12 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "劉 麟玉",
-                "小笠原 真也",
-                "宮田 知絵",
-                "前田 則子",
-                "北條 美香代",
-                "水野 亜歴"
+                "劉　麟玉",
+                "小笠原　真也",
+                "宮田　知絵",
+                "前田　則子",
+                "北條　美香代",
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1561.html"
@@ -4008,7 +4122,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "箕作 和彦"
+                "箕作　和彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2039.html"
@@ -4022,9 +4136,9 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "森本 弘一",
-                "太田 満",
-                "石井 俊行"
+                "森本　弘一",
+                "太田　満",
+                "石井　俊行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2042.html"
@@ -4038,7 +4152,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "浅野 詠子"
+                "浅野　詠子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3421.html"
@@ -4052,7 +4166,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "福光 佐今"
+                "福光　佐今"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5000.html"
@@ -4066,7 +4180,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "笠次 良爾"
+                "笠次　良爾"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5220.html"
@@ -4080,7 +4194,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "浅井 健介"
+                "浅井　健介"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6210.html"
@@ -4094,17 +4208,17 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "竹内 晋平",
-                "宇田 秀士",
-                "前田 則子",
-                "高橋 豪仁",
-                "北條 美香代",
-                "立 正伸",
-                "劉 麟玉",
-                "井上 邦子",
-                "狩野 宏明",
-                "原山 健一",
-                "水野 亜歴"
+                "竹内　晋平",
+                "宇田　秀士",
+                "前田　則子",
+                "高橋　豪仁",
+                "北條　美香代",
+                "立　正伸",
+                "劉　麟玉",
+                "井上　邦子",
+                "狩野　宏明",
+                "原山　健一",
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1530.html"
@@ -4118,7 +4232,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "棚橋 尚子"
+                "棚橋　尚子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2000.html"
@@ -4132,7 +4246,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "米田 猛"
+                "米田　猛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2001.html"
@@ -4146,7 +4260,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "河本 大地"
+                "河本　大地"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3470.html"
@@ -4160,7 +4274,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "渡邉 伸一"
+                "渡邉　伸一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3510.html"
@@ -4174,7 +4288,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "石井 俊行"
+                "石井　俊行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4241.html"
@@ -4188,7 +4302,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "奥田 敬子"
+                "奥田　敬子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4725.html"
@@ -4202,7 +4316,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "大山 明彦"
+                "大山　明彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4813.html"
@@ -4216,7 +4330,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "福光 佐今"
+                "福光　佐今"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5001.html"
@@ -4230,7 +4344,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "谷川 雅夫"
+                "谷川　雅夫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5012.html"
@@ -4244,7 +4358,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "宮尾 夏姫"
+                "宮尾　夏姫"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5311.html"
@@ -4258,7 +4372,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "薮 哲郎"
+                "薮　哲郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5553.html"
@@ -4272,7 +4386,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "廣瀬 聡弥"
+                "廣瀬　聡弥"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6102.html"
@@ -4286,7 +4400,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "残華 雅子"
+                "残華　雅子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6917.html"
@@ -4300,7 +4414,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "渡邉 良枝"
+                "渡邉　良枝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1103.html"
@@ -4314,7 +4428,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "棚橋 尚子"
+                "棚橋　尚子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2006.html"
@@ -4328,7 +4442,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "米田 猛"
+                "米田　猛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2008.html"
@@ -4342,7 +4456,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "長谷川 真由"
+                "長谷川　真由"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2055.html"
@@ -4356,7 +4470,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2091.html"
@@ -4370,7 +4484,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "横山 真貴子"
+                "横山　真貴子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2192.html"
@@ -4384,7 +4498,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "森 篤嗣"
+                "森　篤嗣"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3000.html"
@@ -4398,7 +4512,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "日高 佳紀"
+                "日高　佳紀"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3020.html"
@@ -4412,7 +4526,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "門田 守"
+                "門田　守"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3211.html"
@@ -4426,7 +4540,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "常田 琢"
+                "常田　琢"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4011.html"
@@ -4440,7 +4554,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "金原 正明"
+                "金原　正明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4021.html"
@@ -4454,7 +4568,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "宇田 秀士"
+                "宇田　秀士"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4820.html"
@@ -4468,7 +4582,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "豊田 宗児"
+                "豊田　宗児"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5044.html"
@@ -4482,7 +4596,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "谷川 雅夫"
+                "谷川　雅夫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5047.html"
@@ -4496,7 +4610,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "薮 哲郎"
+                "薮　哲郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5766.html"
@@ -4510,7 +4624,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "越野 和之"
+                "越野　和之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5908.html"
@@ -4524,7 +4638,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "石井 僚"
+                "石井　僚"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6270.html"
@@ -4538,7 +4652,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6300.html"
@@ -4552,7 +4666,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "岩本 華子"
+                "岩本　華子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6906.html"
@@ -4566,7 +4680,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "富井 奈菜実"
+                "富井　奈菜実"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6970.html"
@@ -4580,7 +4694,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "渡邉 良枝"
+                "渡邉　良枝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1153.html"
@@ -4594,7 +4708,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "西川 秀智"
+                "西川　秀智"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2014.html"
@@ -4608,7 +4722,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "太田 満"
+                "太田　満"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2017.html"
@@ -4622,7 +4736,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "竹内 晋平"
+                "竹内　晋平"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2066.html"
@@ -4636,7 +4750,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "谷川 雅夫"
+                "谷川　雅夫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2070.html"
@@ -4650,7 +4764,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "前田 広幸"
+                "前田　広幸"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3041.html"
@@ -4664,7 +4778,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "有馬 義貴"
+                "有馬　義貴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3060.html"
@@ -4678,7 +4792,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3280.html"
@@ -4692,7 +4806,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3405.html"
@@ -4706,7 +4820,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "西田 慎"
+                "西田　慎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3450.html"
@@ -4721,7 +4835,7 @@ let data = {
                 "火9"
             ],
             "teacher": [
-                "藤井 智康"
+                "藤井　智康"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4052.html"
@@ -4736,7 +4850,7 @@ let data = {
                 "火9"
             ],
             "teacher": [
-                "梶原 篤"
+                "梶原　篤"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4327.html"
@@ -4750,7 +4864,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4749.html"
@@ -4764,7 +4878,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "福田 清美"
+                "福田　清美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4752.html"
@@ -4778,7 +4892,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "箕作 和彦"
+                "箕作　和彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5561.html"
@@ -4792,7 +4906,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "立松 麻衣子"
+                "立松　麻衣子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5752.html"
@@ -4806,7 +4920,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "全 有耳"
+                "全　有耳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5901.html"
@@ -4820,7 +4934,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "山中 矢展"
+                "山中　矢展"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6242.html"
@@ -4834,7 +4948,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "石井 僚"
+                "石井　僚"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6275.html"
@@ -4848,8 +4962,8 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "辻野 亮",
-                "村松 大輔"
+                "辻野　亮",
+                "村松　大輔"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6721.html"
@@ -4863,7 +4977,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "生田 周二"
+                "生田　周二"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6820.html"
@@ -4877,7 +4991,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "廣瀬 聡弥"
+                "廣瀬　聡弥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6905.html"
@@ -4891,7 +5005,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "岩本 華子"
+                "岩本　華子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6907.html"
@@ -4905,7 +5019,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "大西 賢治"
+                "大西　賢治"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6912.html"
@@ -4919,7 +5033,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "廣瀬 聡弥"
+                "廣瀬　聡弥"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2193.html"
@@ -4933,7 +5047,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3251.html"
@@ -4947,7 +5061,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "河本 大地"
+                "河本　大地"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3413.html"
@@ -4961,7 +5075,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "伊藤 直治"
+                "伊藤　直治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3712.html"
@@ -4975,9 +5089,9 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "和田 穣隆",
-                "信川 正順",
-                "藤井 智康"
+                "和田　穣隆",
+                "信川　正順",
+                "藤井　智康"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4110.html"
@@ -4991,7 +5105,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "劉 麟玉"
+                "劉　麟玉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4520.html"
@@ -5005,7 +5119,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4541.html"
@@ -5019,7 +5133,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "福田 清美"
+                "福田　清美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4542.html"
@@ -5033,7 +5147,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "大山 明彦"
+                "大山　明彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4812.html"
@@ -5047,7 +5161,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "山岸 公基"
+                "山岸　公基"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4857.html"
@@ -5061,7 +5175,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "立 正伸"
+                "立　正伸"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5270.html"
@@ -5075,7 +5189,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "立松 麻衣子"
+                "立松　麻衣子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5700.html"
@@ -5089,7 +5203,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "中西 陽"
+                "中西　陽"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5961.html"
@@ -5103,7 +5217,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "伊藤 剛和"
+                "伊藤　剛和"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6815.html"
@@ -5117,7 +5231,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "横山 真貴子"
+                "横山　真貴子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6915.html"
@@ -5131,13 +5245,13 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "辻野 亮",
-                "中谷 憲一",
-                "山本 素世",
-                "和田 穣隆",
-                "渡邉 伸一",
-                "箕作 和彦",
-                "村松 大輔"
+                "辻野　亮",
+                "中谷　憲一",
+                "山本　素世",
+                "和田　穣隆",
+                "渡邉　伸一",
+                "箕作　和彦",
+                "村松　大輔"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1502.html"
@@ -5151,13 +5265,13 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "辻野 亮",
-                "中谷 憲一",
-                "山本 素世",
-                "和田 穣隆",
-                "渡邉 伸一",
-                "箕作 和彦",
-                "村松 大輔"
+                "辻野　亮",
+                "中谷　憲一",
+                "山本　素世",
+                "和田　穣隆",
+                "渡邉　伸一",
+                "箕作　和彦",
+                "村松　大輔"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1543.html"
@@ -5171,8 +5285,8 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "原山 健一",
-                "狩野 宏明"
+                "原山　健一",
+                "狩野　宏明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1549.html"
@@ -5186,7 +5300,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "佐藤 臨太郎"
+                "佐藤　臨太郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2010.html"
@@ -5200,11 +5314,11 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "石田 正樹",
-                "信川 正順",
-                "和田 穣隆",
-                "藤井 智康",
-                "小長谷 達郎"
+                "石田　正樹",
+                "信川　正順",
+                "和田　穣隆",
+                "藤井　智康",
+                "小長谷　達郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2046.html"
@@ -5218,7 +5332,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "棚橋 尚子"
+                "棚橋　尚子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3053.html"
@@ -5232,7 +5346,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "今 正秀"
+                "今　正秀"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3431.html"
@@ -5246,7 +5360,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "谷山 正道"
+                "谷山　正道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3490.html"
@@ -5260,7 +5374,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "多田 知正"
+                "多田　知正"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3706.html"
@@ -5274,7 +5388,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "山崎 祥子"
+                "山崎　祥子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4282.html"
@@ -5288,7 +5402,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4748.html"
@@ -5302,7 +5416,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "全 有耳"
+                "全　有耳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5905.html"
@@ -5316,7 +5430,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "板橋 孝幸"
+                "板橋　孝幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6200.html"
@@ -5330,7 +5444,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "粕谷 圭佑"
+                "粕谷　圭佑"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6230.html"
@@ -5344,7 +5458,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "小村 明子"
+                "小村　明子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6520.html"
@@ -5358,10 +5472,10 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "高橋 豪仁",
-                "立 正伸",
-                "井上 邦子",
-                "宮尾 夏姫"
+                "高橋　豪仁",
+                "立　正伸",
+                "井上　邦子",
+                "宮尾　夏姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1518.html"
@@ -5375,10 +5489,10 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "高橋 豪仁",
-                "立 正伸",
-                "井上 邦子",
-                "宮尾 夏姫"
+                "高橋　豪仁",
+                "立　正伸",
+                "井上　邦子",
+                "宮尾　夏姫"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1553.html"
@@ -5392,10 +5506,10 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "高橋 豪仁",
-                "立 正伸",
-                "井上 邦子",
-                "宮尾 夏姫"
+                "高橋　豪仁",
+                "立　正伸",
+                "井上　邦子",
+                "宮尾　夏姫"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1554.html"
@@ -5409,14 +5523,14 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "森本 弘一",
-                "信川 正順",
-                "高島 弘",
-                "山崎 祥子",
-                "和田 穣隆",
-                "中村 元彦",
-                "藤井 智康",
-                "石井 俊行"
+                "森本　弘一",
+                "信川　正順",
+                "高島　弘",
+                "山崎　祥子",
+                "和田　穣隆",
+                "中村　元彦",
+                "藤井　智康",
+                "石井　俊行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2044.html"
@@ -5430,7 +5544,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2092.html"
@@ -5444,7 +5558,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "伊藤 剛和"
+                "伊藤　剛和"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2107.html"
@@ -5458,7 +5572,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "橋本 昭典"
+                "橋本　昭典"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3011.html"
@@ -5472,7 +5586,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "有馬 義貴"
+                "有馬　義貴"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3061.html"
@@ -5486,7 +5600,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "佐藤 臨太郎"
+                "佐藤　臨太郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3281.html"
@@ -5500,7 +5614,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "今 正秀"
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3432.html"
@@ -5514,7 +5628,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "棚瀬 知明"
+                "棚瀬　知明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4230.html"
@@ -5528,7 +5642,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4743.html"
@@ -5542,7 +5656,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "山岸 公基"
+                "山岸　公基"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4851.html"
@@ -5556,7 +5670,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "谷川 雅夫"
+                "谷川　雅夫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5010.html"
@@ -5570,7 +5684,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "北山 聡佳"
+                "北山　聡佳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5020.html"
@@ -5584,7 +5698,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "辻井 啓之"
+                "辻井　啓之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5953.html"
@@ -5598,7 +5712,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "板橋 孝幸"
+                "板橋　孝幸"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6201.html"
@@ -5612,7 +5726,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "粕谷 圭佑"
+                "粕谷　圭佑"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6234.html"
@@ -5626,7 +5740,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "市来 百合子"
+                "市来　百合子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6264.html"
@@ -5640,7 +5754,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "和泉元 千春"
+                "和泉元　千春"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6501.html"
@@ -5654,18 +5768,18 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "常田 琢",
-                "石田 正樹",
-                "信川 正順",
-                "梶原 篤",
-                "山崎 祥子",
-                "松山 豊樹",
-                "森本 弘一",
-                "和田 穣隆",
-                "中村 元彦",
-                "藤井 智康",
-                "石井 俊行",
-                "小長谷 達郎"
+                "常田　琢",
+                "石田　正樹",
+                "信川　正順",
+                "梶原　篤",
+                "山崎　祥子",
+                "松山　豊樹",
+                "森本　弘一",
+                "和田　穣隆",
+                "中村　元彦",
+                "藤井　智康",
+                "石井　俊行",
+                "小長谷　達郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4010.html"
@@ -5679,7 +5793,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4750.html"
@@ -5693,7 +5807,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "狩野 宏明"
+                "狩野　宏明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4844.html"
@@ -5707,7 +5821,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "小村 明子"
+                "小村　明子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6523.html"
@@ -5721,7 +5835,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "荻野 裕子"
+                "荻野　裕子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1000.html"
@@ -5735,7 +5849,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "劉 麟玉"
+                "劉　麟玉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2052.html"
@@ -5749,7 +5863,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "井上 洋一"
+                "井上　洋一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5210.html"
@@ -5763,7 +5877,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "巽 善信"
+                "巽　善信"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1008.html"
@@ -5777,8 +5891,8 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "有馬 義貴",
-                "日高 佳紀"
+                "有馬　義貴",
+                "日高　佳紀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2003.html"
@@ -5792,8 +5906,8 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "川崎 謙一郎",
-                "田山 育男"
+                "川崎　謙一郎",
+                "田山　育男"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2031.html"
@@ -5807,7 +5921,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "箕作 和彦"
+                "箕作　和彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2096.html"
@@ -5821,7 +5935,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "太田 満"
+                "太田　満"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2098.html"
@@ -5835,7 +5949,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "村上 睦美"
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2101.html"
@@ -5849,7 +5963,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "門田 守"
+                "門田　守"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3233.html"
@@ -5863,7 +5977,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "伊藤 直治"
+                "伊藤　直治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3710.html"
@@ -5877,7 +5991,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "常田 琢"
+                "常田　琢"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4071.html"
@@ -5891,7 +6005,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "梶原 篤"
+                "梶原　篤"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4291.html"
@@ -5905,7 +6019,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4506.html"
@@ -5919,7 +6033,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "大坂 一成"
+                "大坂　一成"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4832.html"
@@ -5933,7 +6047,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "瀨川 賢一"
+                "瀨川　賢一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5024.html"
@@ -5947,7 +6061,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "藤猪 耕大"
+                "藤猪　耕大"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5318.html"
@@ -5961,7 +6075,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5524.html"
@@ -5977,7 +6091,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "杉山 薫"
+                "杉山　薫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5712.html"
@@ -5991,7 +6105,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "越野 和之"
+                "越野　和之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5915.html"
@@ -6005,7 +6119,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "大西 賢治"
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6110.html"
@@ -6019,7 +6133,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "橋崎 頼子"
+                "橋崎　頼子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6247.html"
@@ -6033,9 +6147,9 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "森 伸宏",
-                "根田 克彦",
-                "今 正秀"
+                "森　伸宏",
+                "根田　克彦",
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1538.html"
@@ -6049,9 +6163,9 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "根田 克彦",
-                "森 伸宏",
-                "今 正秀"
+                "根田　克彦",
+                "森　伸宏",
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1557.html"
@@ -6065,7 +6179,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "米田 猛"
+                "米田　猛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2004.html"
@@ -6079,7 +6193,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "田村 美由紀"
+                "田村　美由紀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3021.html"
@@ -6093,7 +6207,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "高木 祥司"
+                "高木　祥司"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3837.html"
@@ -6108,7 +6222,7 @@ let data = {
                 "木9"
             ],
             "teacher": [
-                "信川 正順"
+                "信川　正順"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4103.html"
@@ -6123,7 +6237,7 @@ let data = {
                 "木9"
             ],
             "teacher": [
-                "常田 琢"
+                "常田　琢"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4320.html"
@@ -6137,7 +6251,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4507.html"
@@ -6151,7 +6265,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "大坂 一成"
+                "大坂　一成"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4831.html"
@@ -6165,7 +6279,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "永井 隆則"
+                "永井　隆則"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4892.html"
@@ -6179,7 +6293,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "豊田 宗児"
+                "豊田　宗児"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5031.html"
@@ -6193,7 +6307,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "瀨川 賢一"
+                "瀨川　賢一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5049.html"
@@ -6207,7 +6321,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "辻井 啓之"
+                "辻井　啓之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5300.html"
@@ -6221,7 +6335,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5505.html"
@@ -6235,7 +6349,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5525.html"
@@ -6249,7 +6363,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "岩本 華子"
+                "岩本　華子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6114.html"
@@ -6263,7 +6377,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6572.html"
@@ -6277,7 +6391,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "前田 広幸"
+                "前田　広幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3040.html"
@@ -6291,7 +6405,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "エデソル・ドミニク ガイ"
+                "エデソル・ドミニク　ガイ"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3240.html"
@@ -6305,7 +6419,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3401.html"
@@ -6319,7 +6433,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "森口 洋一"
+                "森口　洋一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3417.html"
@@ -6333,7 +6447,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "高木 祥司"
+                "高木　祥司"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3724.html"
@@ -6347,7 +6461,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "石田 正樹"
+                "石田　正樹"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4042.html"
@@ -6361,7 +6475,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "巽 善信"
+                "巽　善信"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4345.html"
@@ -6375,7 +6489,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4728.html"
@@ -6389,7 +6503,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "永井 隆則"
+                "永井　隆則"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4871.html"
@@ -6403,7 +6517,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "笠次 良爾"
+                "笠次　良爾"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5221.html"
@@ -6417,7 +6531,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "出口 拓彦"
+                "出口　拓彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6251.html"
@@ -6431,7 +6545,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "奥田 喜道"
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3442.html"
@@ -6445,7 +6559,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "松井 淳"
+                "松井　淳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4121.html"
@@ -6459,7 +6573,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4747.html"
@@ -6473,7 +6587,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "浅井 健介"
+                "浅井　健介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6211.html"
@@ -6487,7 +6601,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "小村 明子"
+                "小村　明子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6522.html"
@@ -6501,7 +6615,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "宮尾 夏姫"
+                "宮尾　夏姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2084.html"
@@ -6515,7 +6629,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "西田 慎"
+                "西田　慎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3451.html"
@@ -6529,7 +6643,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "伊藤 直治"
+                "伊藤　直治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3711.html"
@@ -6543,7 +6657,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "高橋 亮"
+                "高橋　亮"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3728.html"
@@ -6557,7 +6671,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "石田 正樹"
+                "石田　正樹"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4041.html"
@@ -6571,7 +6685,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "藤本 雅文"
+                "藤本　雅文"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4273.html"
@@ -6585,7 +6699,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4531.html"
@@ -6599,7 +6713,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "奥田 敬子"
+                "奥田　敬子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4636.html"
@@ -6613,7 +6727,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4726.html"
@@ -6627,8 +6741,8 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "谷口 義昭",
-                "薮 哲郎"
+                "谷口　義昭",
+                "薮　哲郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5543.html"
@@ -6642,8 +6756,8 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "石井 僚",
-                "堀 麻佑子"
+                "石井　僚",
+                "堀　麻佑子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6278.html"
@@ -6657,7 +6771,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6304.html"
@@ -6671,7 +6785,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "和泉元 千春"
+                "和泉元　千春"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6503.html"
@@ -6685,7 +6799,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "古田 壮宏"
+                "古田　壮宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6810.html"
@@ -6699,7 +6813,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "荻野 裕子"
+                "荻野　裕子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1006.html"
@@ -6713,7 +6827,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "近藤 裕"
+                "近藤　裕"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2033.html"
@@ -6727,7 +6841,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "福本 義久"
+                "福本　義久"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2034.html"
@@ -6741,7 +6855,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "舟橋 友香"
+                "舟橋　友香"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2037.html"
@@ -6755,7 +6869,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "宮尾 夏姫"
+                "宮尾　夏姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2081.html"
@@ -6769,8 +6883,8 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "石井 俊行",
-                "辻野 亮"
+                "石井　俊行",
+                "辻野　亮"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2186.html"
@@ -6784,7 +6898,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "門田 守"
+                "門田　守"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3232.html"
@@ -6798,7 +6912,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "森 伸宏"
+                "森　伸宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3505.html"
@@ -6812,7 +6926,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4751.html"
@@ -6826,7 +6940,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5509.html"
@@ -6840,7 +6954,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "中山 留美子"
+                "中山　留美子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6280.html"
@@ -6854,7 +6968,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "新谷 遥"
+                "新谷　遥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6541.html"
@@ -6868,7 +6982,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "門田 守"
+                "門田　守"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2012.html"
@@ -6882,7 +6996,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "宇田 秀士"
+                "宇田　秀士"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2060.html"
@@ -6896,7 +7010,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "有馬 義貴"
+                "有馬　義貴"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3062.html"
@@ -6910,7 +7024,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3400.html"
@@ -6924,7 +7038,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "森 伸宏"
+                "森　伸宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3501.html"
@@ -6938,7 +7052,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "高橋 亮"
+                "高橋　亮"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3770.html"
@@ -6953,9 +7067,9 @@ let data = {
                 "金9"
             ],
             "teacher": [
-                "松井 淳",
-                "石田 正樹",
-                "小長谷 達郎"
+                "松井　淳",
+                "石田　正樹",
+                "小長谷　達郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4309.html"
@@ -6970,9 +7084,9 @@ let data = {
                 "金9"
             ],
             "teacher": [
-                "和田 穣隆",
-                "信川 正順",
-                "藤井 智康"
+                "和田　穣隆",
+                "信川　正順",
+                "藤井　智康"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4324.html"
@@ -6986,7 +7100,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "中村 元彦"
+                "中村　元彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4332.html"
@@ -7000,7 +7114,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4503.html"
@@ -7014,7 +7128,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4593.html"
@@ -7028,7 +7142,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "原山 健一"
+                "原山　健一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4861.html"
@@ -7042,7 +7156,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "新田 恭子"
+                "新田　恭子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4881.html"
@@ -7056,7 +7170,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "高橋 豪仁"
+                "高橋　豪仁"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5240.html"
@@ -7070,7 +7184,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "髙木 祐介"
+                "髙木　祐介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5262.html"
@@ -7084,7 +7198,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5512.html"
@@ -7098,7 +7212,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "薮 哲郎"
+                "薮　哲郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5550.html"
@@ -7112,7 +7226,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "中川 愛"
+                "中川　愛"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5760.html"
@@ -7128,7 +7242,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "木林 有理子"
+                "木林　有理子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5775.html"
@@ -7142,9 +7256,9 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "出口 拓彦",
-                "中山 留美子",
-                "石井 僚"
+                "出口　拓彦",
+                "中山　留美子",
+                "石井　僚"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6290.html"
@@ -7158,7 +7272,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6303.html"
@@ -7172,7 +7286,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "新谷 遥"
+                "新谷　遥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6542.html"
@@ -7186,7 +7300,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "橋本 昭典"
+                "橋本　昭典"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3012.html"
@@ -7200,7 +7314,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "森 伸宏"
+                "森　伸宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3502.html"
@@ -7214,7 +7328,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3536.html"
@@ -7228,7 +7342,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "高橋 亮"
+                "高橋　亮"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3800.html"
@@ -7242,7 +7356,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "竹内 直"
+                "竹内　直"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4700.html"
@@ -7256,7 +7370,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4724.html"
@@ -7270,7 +7384,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "原山 健一"
+                "原山　健一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4860.html"
@@ -7284,7 +7398,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "新田 恭子"
+                "新田　恭子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4880.html"
@@ -7298,7 +7412,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "杉山 薫"
+                "杉山　薫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5711.html"
@@ -7312,7 +7426,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6513.html"
@@ -7325,7 +7439,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "巽 善信"
+                "巽　善信"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1007.html"
@@ -7338,7 +7452,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "家城 清美"
+                "家城　清美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1102.html"
@@ -7351,7 +7465,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "家城 清美"
+                "家城　清美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1152.html"
@@ -7364,7 +7478,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "飯田 智行"
+                "飯田　智行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2184.html"
@@ -7377,7 +7491,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "岡 いくよ"
+                "岡　いくよ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2194.html"
@@ -7390,8 +7504,8 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "河本 大地",
-                "中澤 静男"
+                "河本　大地",
+                "中澤　静男"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3538.html"
@@ -7404,7 +7518,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "金原 正明"
+                "金原　正明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3550.html"
@@ -7417,7 +7531,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "長谷川 武博"
+                "長谷川　武博"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3704.html"
@@ -7430,7 +7544,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "橋本 要"
+                "橋本　要"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3805.html"
@@ -7443,7 +7557,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "橋本 要"
+                "橋本　要"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3840.html"
@@ -7456,12 +7570,12 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "高木 祥司",
-                "伊藤 直治",
-                "高橋 亮",
-                "川崎 謙一郎",
-                "近藤 裕",
-                "舟橋 友香"
+                "高木　祥司",
+                "伊藤　直治",
+                "高橋　亮",
+                "川崎　謙一郎",
+                "近藤　裕",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3842.html"
@@ -7474,12 +7588,12 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "川崎 謙一郎",
-                "伊藤 直治",
-                "高橋 亮",
-                "近藤 裕",
-                "高木 祥司",
-                "舟橋 友香"
+                "川崎　謙一郎",
+                "伊藤　直治",
+                "高橋　亮",
+                "近藤　裕",
+                "高木　祥司",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3844.html"
@@ -7492,11 +7606,11 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松井 淳",
-                "石田 正樹",
-                "中野 智之",
-                "辻野 亮",
-                "小長谷 達郎"
+                "松井　淳",
+                "石田　正樹",
+                "中野　智之",
+                "辻野　亮",
+                "小長谷　達郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4043.html"
@@ -7509,13 +7623,13 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松井 淳",
-                "石田 正樹",
-                "信川 正順",
-                "和田 穣隆",
-                "藤井 智康",
-                "辻野 亮",
-                "小長谷 達郎"
+                "松井　淳",
+                "石田　正樹",
+                "信川　正順",
+                "和田　穣隆",
+                "藤井　智康",
+                "辻野　亮",
+                "小長谷　達郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4051.html"
@@ -7528,7 +7642,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "樋上 照男"
+                "樋上　照男"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4062.html"
@@ -7541,7 +7655,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "和田 穣隆"
+                "和田　穣隆"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4318.html"
@@ -7554,7 +7668,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "日野 宏"
+                "日野　宏"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4343.html"
@@ -7567,7 +7681,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "杉本 舞"
+                "杉本　舞"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4347.html"
@@ -7580,7 +7694,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "川上 貴資"
+                "川上　貴資"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4360.html"
@@ -7593,9 +7707,9 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "山岸 公基",
-                "大山 明彦",
-                "金原 正明"
+                "山岸　公基",
+                "大山　明彦",
+                "金原　正明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4858.html"
@@ -7608,7 +7722,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "古川 攝一"
+                "古川　攝一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4894.html"
@@ -7621,7 +7735,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "狩野 宏明"
+                "狩野　宏明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4895.html"
@@ -7634,7 +7748,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "西山 厚"
+                "西山　厚"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5043.html"
@@ -7647,7 +7761,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "笠次 良爾"
+                "笠次　良爾"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5222.html"
@@ -7660,8 +7774,8 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "立 正伸",
-                "笠次 良爾"
+                "立　正伸",
+                "笠次　良爾"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5295.html"
@@ -7674,7 +7788,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "山崎 裕美子"
+                "山崎　裕美子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5316.html"
@@ -7687,7 +7801,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "山崎 裕美子"
+                "山崎　裕美子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5317.html"
@@ -7700,7 +7814,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "光森 洋美"
+                "光森　洋美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5730.html"
@@ -7713,7 +7827,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "木林 有理子"
+                "木林　有理子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5743.html"
@@ -7739,7 +7853,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "池田 仁美"
+                "池田　仁美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5773.html"
@@ -7752,7 +7866,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "稲本 正法"
+                "稲本　正法"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5907.html"
@@ -7765,7 +7879,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "稲本 正法"
+                "稲本　正法"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5909.html"
@@ -7778,7 +7892,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松島 明日香"
+                "松島　明日香"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5910.html"
@@ -7791,12 +7905,12 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "越野 和之",
-                "木下 理恵",
-                "富井 奈菜実",
-                "中西 陽",
-                "堀田 千絵",
-                "全 有耳"
+                "越野　和之",
+                "木下　理恵",
+                "富井　奈菜実",
+                "中西　陽",
+                "堀田　千絵",
+                "全　有耳"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5940.html"
@@ -7809,7 +7923,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "木村 秀生"
+                "木村　秀生"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5952.html"
@@ -7822,7 +7936,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "原田 文孝"
+                "原田　文孝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5962.html"
@@ -7835,8 +7949,8 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "越野 和之",
-                "富井 奈菜実"
+                "越野　和之",
+                "富井　奈菜実"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5963.html"
@@ -7849,7 +7963,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "越野 和之"
+                "越野　和之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5965.html"
@@ -7862,9 +7976,9 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "残華 雅子",
-                "栗山 誠",
-                "椋田 善之"
+                "残華　雅子",
+                "栗山　誠",
+                "椋田　善之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6113.html"
@@ -7877,7 +7991,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "小川 絢子"
+                "小川　絢子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6261.html"
@@ -7890,7 +8004,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "池田 曜子"
+                "池田　曜子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6307.html"
@@ -7903,7 +8017,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "竹下 三隆"
+                "竹下　三隆"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6310.html"
@@ -7916,7 +8030,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6320.html"
@@ -7929,7 +8043,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "岡 いくよ"
+                "岡　いくよ"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6914.html"
@@ -7942,10 +8056,10 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "残華 雅子",
-                "横山 真貴子",
-                "廣瀬 聡弥",
-                "大西 賢治"
+                "残華　雅子",
+                "横山　真貴子",
+                "廣瀬　聡弥",
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8072.html"
@@ -7958,8 +8072,8 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "岩本 華子",
-                "横山 真貴子"
+                "岩本　華子",
+                "横山　真貴子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8073.html"
@@ -7972,8 +8086,8 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "阪口 美香",
-                "村上 睦美"
+                "阪口　美香",
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9981.html"
@@ -7986,22 +8100,22 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松山 豊樹",
-                "松井 淳",
-                "伊藤 直治",
-                "石田 正樹",
-                "信川 正順",
-                "高橋 亮",
-                "山崎 祥子",
-                "和田 穣隆",
-                "川崎 謙一郎",
-                "藤井 智康",
-                "常田 琢",
-                "近藤 裕",
-                "片岡 佐知子",
-                "高木 祥司",
-                "小川 泰朗",
-                "舟橋 友香"
+                "松山　豊樹",
+                "松井　淳",
+                "伊藤　直治",
+                "石田　正樹",
+                "信川　正順",
+                "高橋　亮",
+                "山崎　祥子",
+                "和田　穣隆",
+                "川崎　謙一郎",
+                "藤井　智康",
+                "常田　琢",
+                "近藤　裕",
+                "片岡　佐知子",
+                "高木　祥司",
+                "小川　泰朗",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9984.html"
@@ -8014,22 +8128,22 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松山 豊樹",
-                "松井 淳",
-                "伊藤 直治",
-                "石田 正樹",
-                "信川 正順",
-                "高橋 亮",
-                "山崎 祥子",
-                "和田 穣隆",
-                "川崎 謙一郎",
-                "藤井 智康",
-                "常田 琢",
-                "近藤 裕",
-                "片岡 佐知子",
-                "高木 祥司",
-                "小川 泰朗",
-                "舟橋 友香"
+                "松山　豊樹",
+                "松井　淳",
+                "伊藤　直治",
+                "石田　正樹",
+                "信川　正順",
+                "高橋　亮",
+                "山崎　祥子",
+                "和田　穣隆",
+                "川崎　謙一郎",
+                "藤井　智康",
+                "常田　琢",
+                "近藤　裕",
+                "片岡　佐知子",
+                "高木　祥司",
+                "小川　泰朗",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9986.html"
@@ -8042,22 +8156,22 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松山 豊樹",
-                "松井 淳",
-                "伊藤 直治",
-                "石田 正樹",
-                "信川 正順",
-                "高橋 亮",
-                "山崎 祥子",
-                "和田 穣隆",
-                "川崎 謙一郎",
-                "藤井 智康",
-                "常田 琢",
-                "近藤 裕",
-                "片岡 佐知子",
-                "高木 祥司",
-                "小川 泰朗",
-                "舟橋 友香"
+                "松山　豊樹",
+                "松井　淳",
+                "伊藤　直治",
+                "石田　正樹",
+                "信川　正順",
+                "高橋　亮",
+                "山崎　祥子",
+                "和田　穣隆",
+                "川崎　謙一郎",
+                "藤井　智康",
+                "常田　琢",
+                "近藤　裕",
+                "片岡　佐知子",
+                "高木　祥司",
+                "小川　泰朗",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9988.html"
@@ -8071,7 +8185,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "粕谷 圭佑"
+                "粕谷　圭佑"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0731.html"
@@ -8085,10 +8199,10 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "石井 僚",
-                "中山 留美子",
-                "出口 拓彦",
-                "堀 麻佑子"
+                "石井　僚",
+                "中山　留美子",
+                "出口　拓彦",
+                "堀　麻佑子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0732.html"
@@ -8102,8 +8216,8 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "横山 真貴子",
-                "大西 賢治"
+                "横山　真貴子",
+                "大西　賢治"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0733.html"
@@ -8117,7 +8231,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "堀田 千絵"
+                "堀田　千絵"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0734.html"
@@ -8131,7 +8245,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "橋本 昭典"
+                "橋本　昭典"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0735.html"
@@ -8145,8 +8259,8 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "渡邉 伸一",
-                "太田 満"
+                "渡邉　伸一",
+                "太田　満"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0736.html"
@@ -8160,7 +8274,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "高橋 亮"
+                "高橋　亮"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0737.html"
@@ -8174,9 +8288,9 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "和田 穣隆",
-                "石田 正樹",
-                "石井 俊行"
+                "和田　穣隆",
+                "石田　正樹",
+                "石井　俊行"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0738.html"
@@ -8190,7 +8304,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0739.html"
@@ -8204,7 +8318,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "原山 健一"
+                "原山　健一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0740.html"
@@ -8218,7 +8332,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "笠次 良爾"
+                "笠次　良爾"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0741.html"
@@ -8232,7 +8346,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "中川 愛"
+                "中川　愛"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0742.html"
@@ -8246,7 +8360,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0743.html"
@@ -8260,7 +8374,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "豊田 宗児"
+                "豊田　宗児"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0744.html"
@@ -8274,7 +8388,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "山岸 公基"
+                "山岸　公基"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0745.html"
@@ -8288,7 +8402,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0746.html"
@@ -8302,8 +8416,8 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "新田 恭子",
-                "川北 成彦"
+                "新田　恭子",
+                "川北　成彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1542.html"
@@ -8317,7 +8431,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1548.html"
@@ -8331,12 +8445,12 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "劉 麟玉",
-                "小笠原 真也",
-                "宮田 知絵",
-                "前田 則子",
-                "北條 美香代",
-                "水野 亜歴"
+                "劉　麟玉",
+                "小笠原　真也",
+                "宮田　知絵",
+                "前田　則子",
+                "北條　美香代",
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1545.html"
@@ -8350,8 +8464,8 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "狩野 宏明",
-                "原山 健一"
+                "狩野　宏明",
+                "原山　健一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1544.html"
@@ -8365,13 +8479,13 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "辻野 亮",
-                "中谷 憲一",
-                "山本 素世",
-                "和田 穣隆",
-                "渡邉 伸一",
-                "箕作 和彦",
-                "村松 大輔"
+                "辻野　亮",
+                "中谷　憲一",
+                "山本　素世",
+                "和田　穣隆",
+                "渡邉　伸一",
+                "箕作　和彦",
+                "村松　大輔"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1550.html"
@@ -8385,7 +8499,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "有馬 一彦"
+                "有馬　一彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2085.html"
@@ -8399,12 +8513,12 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "舟橋 友香",
-                "伊藤 直治",
-                "高橋 亮",
-                "川崎 謙一郎",
-                "近藤 裕",
-                "高木 祥司"
+                "舟橋　友香",
+                "伊藤　直治",
+                "高橋　亮",
+                "川崎　謙一郎",
+                "近藤　裕",
+                "高木　祥司"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2228.html"
@@ -8418,10 +8532,24 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "今 正秀"
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3449.html"
+        },
+        {
+            "tt_num": "G3456",
+            "name": "西洋史研究Ⅳ",
+            "semester": "後期",
+            "period": [
+                "月1",
+                "月2"
+            ],
+            "teacher": [
+                "西田　慎"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3456.html"
         },
         {
             "tt_num": "G3518",
@@ -8432,7 +8560,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "渡邉 伸一"
+                "渡邉　伸一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3518.html"
@@ -8446,7 +8574,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "和田 穣隆"
+                "和田　穣隆"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4302.html"
@@ -8460,7 +8588,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "福田 清美"
+                "福田　清美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4754.html"
@@ -8474,7 +8602,7 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4763.html"
@@ -8488,10 +8616,24 @@ let data = {
                 "月2"
             ],
             "teacher": [
-                "出口 拓彦"
+                "出口　拓彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6252.html"
+        },
+        {
+            "tt_num": "G2097",
+            "name": "中等教科教育法Ⅳ（技術）",
+            "semester": "後期",
+            "period": [
+                "月3",
+                "月4"
+            ],
+            "teacher": [
+                "薮　哲郎"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2097.html"
         },
         {
             "tt_num": "G3074",
@@ -8502,7 +8644,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "森下 訓子"
+                "森下　訓子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3074.html"
@@ -8516,7 +8658,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "奥田 喜道"
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3443.html"
@@ -8530,7 +8672,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "根田 克彦"
+                "根田　克彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3482.html"
@@ -8544,7 +8686,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "村井 紘子"
+                "村井　紘子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3773.html"
@@ -8558,7 +8700,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "近藤 裕"
+                "近藤　裕"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3792.html"
@@ -8572,7 +8714,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4731.html"
@@ -8586,7 +8728,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "奥田 敬子"
+                "奥田　敬子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4732.html"
@@ -8600,7 +8742,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "福田 清美"
+                "福田　清美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4739.html"
@@ -8614,7 +8756,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "大山 明彦"
+                "大山　明彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4877.html"
@@ -8628,7 +8770,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "北山 聡佳"
+                "北山　聡佳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5023.html"
@@ -8642,7 +8784,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "豊田 宗児"
+                "豊田　宗児"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5033.html"
@@ -8656,7 +8798,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "中田 大貴"
+                "中田　大貴"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5200.html"
@@ -8670,7 +8812,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "板橋 孝幸"
+                "板橋　孝幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6202.html"
@@ -8684,7 +8826,7 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "赤沢 早人"
+                "赤沢　早人"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6221.html"
@@ -8698,8 +8840,8 @@ let data = {
                 "月4"
             ],
             "teacher": [
-                "出口 拓彦",
-                "堀 麻佑子"
+                "出口　拓彦",
+                "堀　麻佑子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6271.html"
@@ -8713,7 +8855,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "兼重 昇"
+                "兼重　昇"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1563.html"
@@ -8727,7 +8869,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "森口 洋一"
+                "森口　洋一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2026.html"
@@ -8741,7 +8883,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "長谷川 真由"
+                "長谷川　真由"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2053.html"
@@ -8755,7 +8897,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "髙木 祐介"
+                "髙木　祐介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2083.html"
@@ -8769,7 +8911,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2093.html"
@@ -8783,7 +8925,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "森下 訓子"
+                "森下　訓子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3003.html"
@@ -8797,7 +8939,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "マーティン パーソンズ"
+                "マーティン　パーソンズ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3274.html"
@@ -8811,7 +8953,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "川崎 謙一郎"
+                "川崎　謙一郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3745.html"
@@ -8825,7 +8967,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "村井 紘子"
+                "村井　紘子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3831.html"
@@ -8839,7 +8981,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "梶原 篤"
+                "梶原　篤"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4236.html"
@@ -8853,7 +8995,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4741.html"
@@ -8867,7 +9009,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "福光 佐今"
+                "福光　佐今"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5035.html"
@@ -8881,7 +9023,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "井上 邦子"
+                "井上　邦子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5319.html"
@@ -8895,7 +9037,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5520.html"
@@ -8909,7 +9051,7 @@ let data = {
                 "月6"
             ],
             "teacher": [
-                "和泉元 千春"
+                "和泉元　千春"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6504.html"
@@ -8923,8 +9065,8 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "舟橋 友香",
-                "川崎 謙一郎"
+                "舟橋　友香",
+                "川崎　謙一郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1539.html"
@@ -8938,8 +9080,8 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "近藤 裕",
-                "高橋 亮"
+                "近藤　裕",
+                "高橋　亮"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1558.html"
@@ -8953,7 +9095,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "椎名 美穂子",
+                "椎名　美穂子",
                 "担当教員未定"
             ],
             "credits": 2,
@@ -8968,8 +9110,8 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "谷川 雅夫",
-                "豊田 宗児"
+                "谷川　雅夫",
+                "豊田　宗児"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2234.html"
@@ -8983,7 +9125,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "森口 洋一"
+                "森口　洋一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3418.html"
@@ -8997,10 +9139,24 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "奥田 喜道"
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3444.html"
+        },
+        {
+            "tt_num": "G3454",
+            "name": "西洋史研究Ⅱ",
+            "semester": "後期",
+            "period": [
+                "月7",
+                "月8"
+            ],
+            "teacher": [
+                "西田　慎"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3454.html"
         },
         {
             "tt_num": "G3513",
@@ -9011,7 +9167,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "渡邉 伸一"
+                "渡邉　伸一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3513.html"
@@ -9025,8 +9181,8 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "根田 克彦",
-                "河本 大地"
+                "根田　克彦",
+                "河本　大地"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3529.html"
@@ -9040,8 +9196,8 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "河本 大地",
-                "根田 克彦"
+                "河本　大地",
+                "根田　克彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3533.html"
@@ -9055,7 +9211,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "伊藤 直治"
+                "伊藤　直治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3715.html"
@@ -9070,7 +9226,7 @@ let data = {
                 "月9"
             ],
             "teacher": [
-                "小長谷 達郎"
+                "小長谷　達郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4032.html"
@@ -9084,7 +9240,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "藤井 智康"
+                "藤井　智康"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4050.html"
@@ -9099,9 +9255,9 @@ let data = {
                 "月9"
             ],
             "teacher": [
-                "山崎 祥子",
-                "梶原 篤",
-                "高島 弘"
+                "山崎　祥子",
+                "梶原　篤",
+                "高島　弘"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4322.html"
@@ -9115,7 +9271,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4639.html"
@@ -9129,7 +9285,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4744.html"
@@ -9143,7 +9299,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "大坂 一成"
+                "大坂　一成"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4834.html"
@@ -9157,7 +9313,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "竹村 匡弥"
+                "竹村　匡弥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5251.html"
@@ -9171,7 +9327,7 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "髙木 祐介"
+                "髙木　祐介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5264.html"
@@ -9185,24 +9341,25 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5518.html"
         },
         {
-            "tt_num": "G5924",
-            "name": "障害児心理学演習",
+            "tt_num": "G5551",
+            "name": "電気設計製作",
             "semester": "後期",
             "period": [
                 "月7",
-                "月8"
+                "月8",
+                "月9"
             ],
             "teacher": [
-                "今泉 祥子"
+                "薮　哲郎"
             ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5924.html"
+            "credits": 1,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5551.html"
         },
         {
             "tt_num": "G6121",
@@ -9213,9 +9370,9 @@ let data = {
                 "月8"
             ],
             "teacher": [
-                "出口 拓彦",
-                "石井 僚",
-                "堀 麻佑子"
+                "出口　拓彦",
+                "石井　僚",
+                "堀　麻佑子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6121.html"
@@ -9229,7 +9386,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "森口 洋一"
+                "森口　洋一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2099.html"
@@ -9243,7 +9400,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3222.html"
@@ -9257,7 +9414,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "奥田 喜道"
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3459.html"
@@ -9271,7 +9428,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "伊藤 剛和"
+                "伊藤　剛和"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3717.html"
@@ -9285,7 +9442,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "川崎 謙一郎"
+                "川崎　謙一郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3748.html"
@@ -9299,7 +9456,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4591.html"
@@ -9313,7 +9470,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "林 美音子"
+                "林　美音子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4646.html"
@@ -9327,7 +9484,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4755.html"
@@ -9341,7 +9498,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "大坂 一成"
+                "大坂　一成"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4833.html"
@@ -9355,7 +9512,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "狩野 宏明"
+                "狩野　宏明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4847.html"
@@ -9369,7 +9526,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "谷川 雅夫"
+                "谷川　雅夫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5054.html"
@@ -9383,7 +9540,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "蓬田 高正"
+                "蓬田　高正"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5281.html"
@@ -9397,7 +9554,7 @@ let data = {
                 "月10"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5527.html"
@@ -9411,7 +9568,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "森本 弘一"
+                "森本　弘一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2041.html"
@@ -9425,7 +9582,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "宇田 秀士"
+                "宇田　秀士"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2062.html"
@@ -9439,9 +9596,9 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "井上 邦子",
-                "笠次 良爾",
-                "髙木 祐介"
+                "井上　邦子",
+                "笠次　良爾",
+                "髙木　祐介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2179.html"
@@ -9455,7 +9612,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "今 正秀"
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3435.html"
@@ -9469,7 +9626,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "奥田 敬子"
+                "奥田　敬子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4637.html"
@@ -9483,7 +9640,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "福光 佐今"
+                "福光　佐今"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5002.html"
@@ -9497,7 +9654,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "立 正伸"
+                "立　正伸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5272.html"
@@ -9511,7 +9668,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "立松 麻衣子"
+                "立松　麻衣子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5701.html"
@@ -9525,7 +9682,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "越野 和之"
+                "越野　和之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5913.html"
@@ -9539,7 +9696,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "橋崎 頼子"
+                "橋崎　頼子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6246.html"
@@ -9553,7 +9710,7 @@ let data = {
                 "火2"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6308.html"
@@ -9567,7 +9724,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "伊藤 剛和"
+                "伊藤　剛和"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1101.html"
@@ -9581,8 +9738,8 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "奥田 敬子",
-                "小笠原 真也"
+                "奥田　敬子",
+                "小笠原　真也"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1546.html"
@@ -9596,7 +9753,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "棚橋 尚子"
+                "棚橋　尚子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2002.html"
@@ -9610,7 +9767,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "劉 麟玉"
+                "劉　麟玉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2056.html"
@@ -9624,7 +9781,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "小坂 美保"
+                "小坂　美保"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2078.html"
@@ -9638,7 +9795,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "宮尾 夏姫"
+                "宮尾　夏姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2079.html"
@@ -9652,7 +9809,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "西川 潔"
+                "西川　潔"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2080.html"
@@ -9666,7 +9823,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3255.html"
@@ -9680,7 +9837,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "太田 満"
+                "太田　満"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3414.html"
@@ -9694,7 +9851,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "渡邉 伸一"
+                "渡邉　伸一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3514.html"
@@ -9708,7 +9865,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "小長谷 達郎"
+                "小長谷　達郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4033.html"
@@ -9722,7 +9879,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "山崎 祥子"
+                "山崎　祥子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4281.html"
@@ -9736,7 +9893,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "竹内 晋平"
+                "竹内　晋平"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4821.html"
@@ -9750,7 +9907,7 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "豊田 宗児"
+                "豊田　宗児"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5045.html"
@@ -9764,10 +9921,24 @@ let data = {
                 "火4"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5506.html"
+        },
+        {
+            "tt_num": "G5762",
+            "name": "保育学(実習を含む。）",
+            "semester": "後期",
+            "period": [
+                "火3",
+                "火4"
+            ],
+            "teacher": [
+                "中川　愛"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5762.html"
         },
         {
             "tt_num": "G2191",
@@ -9778,7 +9949,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "劉 麟玉"
+                "劉　麟玉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2191.html"
@@ -9792,7 +9963,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "森 篤嗣"
+                "森　篤嗣"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3004.html"
@@ -9806,7 +9977,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "前田 広幸"
+                "前田　広幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3042.html"
@@ -9820,7 +9991,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "有馬 義貴"
+                "有馬　義貴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3063.html"
@@ -9834,7 +10005,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "米倉 陽子"
+                "米倉　陽子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3254.html"
@@ -9848,7 +10019,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "佐藤 臨太郎"
+                "佐藤　臨太郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3279.html"
@@ -9862,7 +10033,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3404.html"
@@ -9876,7 +10047,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "太田 満"
+                "太田　満"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3416.html"
@@ -9890,7 +10061,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "細見 和弘"
+                "細見　和弘"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3532.html"
@@ -9904,7 +10075,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "舟橋 友香"
+                "舟橋　友香"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3764.html"
@@ -9918,9 +10089,9 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "藤井 智康",
-                "信川 正順",
-                "和田 穣隆"
+                "藤井　智康",
+                "信川　正順",
+                "和田　穣隆"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4104.html"
@@ -9934,7 +10105,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "横山 真貴子"
+                "横山　真貴子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4538.html"
@@ -9948,7 +10119,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4734.html"
@@ -9962,7 +10133,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "狩野 宏明"
+                "狩野　宏明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4849.html"
@@ -9976,7 +10147,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "福光 佐今"
+                "福光　佐今"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5004.html"
@@ -9990,7 +10161,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "谷川 雅夫"
+                "谷川　雅夫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5014.html"
@@ -10004,7 +10175,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "笠次 良爾"
+                "笠次　良爾"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5225.html"
@@ -10018,7 +10189,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5529.html"
@@ -10032,7 +10203,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "立松 麻衣子"
+                "立松　麻衣子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5704.html"
@@ -10046,7 +10217,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "光森 洋美"
+                "光森　洋美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5735.html"
@@ -10060,7 +10231,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "浅井 健介"
+                "浅井　健介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6212.html"
@@ -10074,7 +10245,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "小村 明子"
+                "小村　明子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6526.html"
@@ -10088,7 +10259,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "残華 雅子"
+                "残華　雅子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6916.html"
@@ -10102,7 +10273,7 @@ let data = {
                 "火6"
             ],
             "teacher": [
-                "岩本 華子"
+                "岩本　華子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6919.html"
@@ -10116,7 +10287,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "粕谷 圭佑"
+                "粕谷　圭佑"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0710.html"
@@ -10130,9 +10301,9 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "石井 僚",
-                "中山 留美子",
-                "出口 拓彦"
+                "石井　僚",
+                "中山　留美子",
+                "出口　拓彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0711.html"
@@ -10146,8 +10317,8 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "横山 真貴子",
-                "大西 賢治"
+                "横山　真貴子",
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0712.html"
@@ -10161,7 +10332,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "堀田 千絵"
+                "堀田　千絵"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0713.html"
@@ -10175,8 +10346,8 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "棚橋 尚子",
-                "前田 広幸"
+                "棚橋　尚子",
+                "前田　広幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0714.html"
@@ -10190,11 +10361,26 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "今 正秀",
-                "根田 克彦"
+                "今　正秀",
+                "根田　克彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0715.html"
+        },
+        {
+            "tt_num": "G0716",
+            "name": "専修基礎ゼミ",
+            "semester": "後期",
+            "period": [
+                "火7",
+                "火8"
+            ],
+            "teacher": [
+                "門田　守",
+                "佐藤　臨太郎"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0716.html"
         },
         {
             "tt_num": "G0717",
@@ -10205,12 +10391,12 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "川崎 謙一郎",
-                "伊藤 直治",
-                "高橋 亮",
-                "近藤 裕",
-                "高木 祥司",
-                "舟橋 友香"
+                "川崎　謙一郎",
+                "伊藤　直治",
+                "高橋　亮",
+                "近藤　裕",
+                "高木　祥司",
+                "舟橋　友香"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0717.html"
@@ -10224,16 +10410,16 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "和田 穣隆",
-                "石田 正樹",
-                "信川 正順",
-                "梶原 篤",
-                "山崎 祥子",
-                "松山 豊樹",
-                "中村 元彦",
-                "藤井 智康",
-                "常田 琢",
-                "小長谷 達郎"
+                "和田　穣隆",
+                "石田　正樹",
+                "信川　正順",
+                "梶原　篤",
+                "山崎　祥子",
+                "松山　豊樹",
+                "中村　元彦",
+                "藤井　智康",
+                "常田　琢",
+                "小長谷　達郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0718.html"
@@ -10247,12 +10433,29 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "世良 啓太",
-                "薮 哲郎",
-                "箕作 和彦"
+                "世良　啓太",
+                "薮　哲郎",
+                "箕作　和彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0719.html"
+        },
+        {
+            "tt_num": "G0720",
+            "name": "専修基礎ゼミ",
+            "semester": "後期",
+            "period": [
+                "火7",
+                "火8"
+            ],
+            "teacher": [
+                "中川　愛",
+                "杉山　薫",
+                "立松　麻衣子",
+                "村上　睦美"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0720.html"
         },
         {
             "tt_num": "G0721",
@@ -10263,7 +10466,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0721.html"
@@ -10277,7 +10480,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "原山 健一"
+                "原山　健一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0722.html"
@@ -10291,7 +10494,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "笠次 良爾"
+                "笠次　良爾"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0723.html"
@@ -10305,7 +10508,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "谷川 雅夫"
+                "谷川　雅夫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0725.html"
@@ -10319,8 +10522,8 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "金原 正明",
-                "大山 明彦"
+                "金原　正明",
+                "大山　明彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0726.html"
@@ -10334,7 +10537,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "竹内 晋平"
+                "竹内　晋平"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2063.html"
@@ -10348,8 +10551,8 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "松本 歩子",
-                "松本 歩子"
+                "松本　歩子",
+                "松本　歩子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2103.html"
@@ -10363,7 +10566,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3406.html"
@@ -10377,7 +10580,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "細見 和弘"
+                "細見　和弘"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3531.html"
@@ -10391,7 +10594,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "張 娟姫"
+                "張　娟姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3810.html"
@@ -10406,7 +10609,7 @@ let data = {
                 "火9"
             ],
             "teacher": [
-                "石田 正樹"
+                "石田　正樹"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4045.html"
@@ -10421,9 +10624,9 @@ let data = {
                 "火9"
             ],
             "teacher": [
-                "松山 豊樹",
-                "中村 元彦",
-                "常田 琢"
+                "松山　豊樹",
+                "中村　元彦",
+                "常田　琢"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4312.html"
@@ -10437,7 +10640,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "山岸 公基"
+                "山岸　公基"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4856.html"
@@ -10451,7 +10654,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "豊田 宗児"
+                "豊田　宗児"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5037.html"
@@ -10465,7 +10668,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "北山 聡佳"
+                "北山　聡佳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5062.html"
@@ -10479,7 +10682,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "稲葉 慎太郎"
+                "稲葉　慎太郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5309.html"
@@ -10493,7 +10696,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "杉山 薫"
+                "杉山　薫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5710.html"
@@ -10507,7 +10710,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "木下 理恵"
+                "木下　理恵"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5966.html"
@@ -10521,7 +10724,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "山中 矢展"
+                "山中　矢展"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6243.html"
@@ -10535,7 +10738,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6531.html"
@@ -10549,7 +10752,7 @@ let data = {
                 "火8"
             ],
             "teacher": [
-                "生田 周二"
+                "生田　周二"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6821.html"
@@ -10563,7 +10766,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "伊藤 剛和"
+                "伊藤　剛和"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G0066.html"
@@ -10577,7 +10780,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "佐藤 臨太郎"
+                "佐藤　臨太郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2013.html"
@@ -10591,7 +10794,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "村上 睦美"
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2105.html"
@@ -10605,11 +10808,11 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "原山 健一",
-                "山岸 公基",
-                "宇田 秀士",
-                "大山 明彦",
-                "狩野 宏明"
+                "原山　健一",
+                "山岸　公基",
+                "宇田　秀士",
+                "大山　明彦",
+                "狩野　宏明"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2231.html"
@@ -10623,7 +10826,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "河本 大地"
+                "河本　大地"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3474.html"
@@ -10638,7 +10841,7 @@ let data = {
                 "火11"
             ],
             "teacher": [
-                "金原 正明"
+                "金原　正明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4024.html"
@@ -10652,7 +10855,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "横山 真貴子"
+                "横山　真貴子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4539.html"
@@ -10666,7 +10869,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4548.html"
@@ -10680,7 +10883,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "福田 清美"
+                "福田　清美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4549.html"
@@ -10694,7 +10897,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "北山 聡佳"
+                "北山　聡佳"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5046.html"
@@ -10708,10 +10911,24 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "笠次 良爾"
+                "笠次　良爾"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5267.html"
+        },
+        {
+            "tt_num": "G5557",
+            "name": "情報技術実習",
+            "semester": "後期",
+            "period": [
+                "火9",
+                "火10"
+            ],
+            "teacher": [
+                "薮　哲郎"
+            ],
+            "credits": 1,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5557.html"
         },
         {
             "tt_num": "G6103",
@@ -10722,7 +10939,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "廣瀬 聡弥"
+                "廣瀬　聡弥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6103.html"
@@ -10736,7 +10953,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "大西 賢治"
+                "大西　賢治"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6112.html"
@@ -10750,8 +10967,7 @@ let data = {
                 "火10"
             ],
             "teacher": [
-                "残華 雅子",
-                "担当教員未定"
+                "残華　雅子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6920.html"
@@ -10765,7 +10981,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "石井 俊行"
+                "石井　俊行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2043.html"
@@ -10779,7 +10995,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "谷川 雅夫"
+                "谷川　雅夫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2071.html"
@@ -10793,7 +11009,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "伊藤 剛和"
+                "伊藤　剛和"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2108.html"
@@ -10807,8 +11023,8 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "竹内 晋平",
-                "川口 奈々子"
+                "竹内　晋平",
+                "川口　奈々子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2189.html"
@@ -10822,8 +11038,8 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "川口 奈々子",
-                "竹内 晋平"
+                "川口　奈々子",
+                "竹内　晋平"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2190.html"
@@ -10837,7 +11053,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "橋本 昭典"
+                "橋本　昭典"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3071.html"
@@ -10851,7 +11067,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "棚橋 尚子"
+                "棚橋　尚子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3080.html"
@@ -10865,7 +11081,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "藤平 眞紀子"
+                "藤平　眞紀子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5751.html"
@@ -10879,7 +11095,7 @@ let data = {
                 "水2"
             ],
             "teacher": [
-                "和泉元 千春"
+                "和泉元　千春"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6506.html"
@@ -10893,13 +11109,13 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "森本 弘一",
-                "信川 正順",
-                "中澤 隆",
-                "和田 穣隆",
-                "中村 元彦",
-                "藤井 智康",
-                "石井 俊行"
+                "森本　弘一",
+                "信川　正順",
+                "中澤　隆",
+                "和田　穣隆",
+                "中村　元彦",
+                "藤井　智康",
+                "石井　俊行"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2040.html"
@@ -10913,7 +11129,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2095.html"
@@ -10927,7 +11143,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "村上 睦美"
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2102.html"
@@ -10941,11 +11157,11 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "日高 佳紀",
-                "前田 広幸",
-                "橋本 昭典",
-                "有馬 義貴",
-                "棚橋 尚子"
+                "日高　佳紀",
+                "前田　広幸",
+                "橋本　昭典",
+                "有馬　義貴",
+                "棚橋　尚子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2226.html"
@@ -10959,7 +11175,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "谷山 正道"
+                "谷山　正道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3492.html"
@@ -10973,7 +11189,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "竹本 有紀"
+                "竹本　有紀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3702.html"
@@ -10987,7 +11203,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "小長谷 達郎"
+                "小長谷　達郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4046.html"
@@ -11001,7 +11217,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "山岸 公基"
+                "山岸　公基"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4854.html"
@@ -11015,7 +11231,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "新田 恭子"
+                "新田　恭子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4886.html"
@@ -11029,7 +11245,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "豊田 宗児"
+                "豊田　宗児"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5034.html"
@@ -11043,7 +11259,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "高橋 豪仁"
+                "高橋　豪仁"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5242.html"
@@ -11057,7 +11273,7 @@ let data = {
                 "水4"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5503.html"
@@ -11071,7 +11287,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "吉村 公宏"
+                "吉村　公宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2011.html"
@@ -11085,7 +11301,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "日高 佳紀"
+                "日高　佳紀"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3076.html"
@@ -11099,7 +11315,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "酒井 敏"
+                "酒井　敏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4336.html"
@@ -11113,7 +11329,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "北川 剛司"
+                "北川　剛司"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6245.html"
@@ -11127,7 +11343,7 @@ let data = {
                 "木2"
             ],
             "teacher": [
-                "小村 明子"
+                "小村　明子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6525.html"
@@ -11141,8 +11357,8 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "前田 広幸",
-                "岸江 信介"
+                "前田　広幸",
+                "岸江　信介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2007.html"
@@ -11156,15 +11372,15 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "梶尾 悠史",
-                "根田 克彦",
-                "太田 満",
-                "渡邉 伸一",
-                "今 正秀",
-                "西田 慎",
-                "河本 大地",
-                "森口 洋一",
-                "奥田 喜道"
+                "梶尾　悠史",
+                "根田　克彦",
+                "太田　満",
+                "渡邉　伸一",
+                "今　正秀",
+                "西田　慎",
+                "河本　大地",
+                "森口　洋一",
+                "奥田　喜道"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2227.html"
@@ -11178,8 +11394,8 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "世良 啓太",
-                "薮 哲郎"
+                "世良　啓太",
+                "薮　哲郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2233.html"
@@ -11193,7 +11409,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "吉村 公宏"
+                "吉村　公宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3278.html"
@@ -11207,7 +11423,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "佐藤 臨太郎"
+                "佐藤　臨太郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3282.html"
@@ -11221,7 +11437,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "張 娟姫"
+                "張　娟姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3841.html"
@@ -11235,7 +11451,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "梶原 篤"
+                "梶原　篤"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4001.html"
@@ -11249,7 +11465,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "中澤 静男"
+                "中澤　静男"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4817.html"
@@ -11263,7 +11479,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "堀 麻佑子"
+                "堀　麻佑子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6273.html"
@@ -11277,7 +11493,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "古田 壮宏"
+                "古田　壮宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6811.html"
@@ -11291,7 +11507,7 @@ let data = {
                 "木4"
             ],
             "teacher": [
-                "杉山 薫"
+                "杉山　薫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6909.html"
@@ -11305,7 +11521,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "エデソル・ドミニク ガイ"
+                "エデソル・ドミニク　ガイ"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1576.html"
@@ -11319,7 +11535,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "大西 賢治"
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2125.html"
@@ -11333,7 +11549,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "前田 広幸"
+                "前田　広幸"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3044.html"
@@ -11347,7 +11563,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "日高 佳紀"
+                "日高　佳紀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3078.html"
@@ -11361,7 +11577,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "浅野 詠子"
+                "浅野　詠子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3423.html"
@@ -11375,7 +11591,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4735.html"
@@ -11389,7 +11605,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "原山 健一"
+                "原山　健一"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4862.html"
@@ -11403,7 +11619,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "瀨川 賢一"
+                "瀨川　賢一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5050.html"
@@ -11417,7 +11633,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "西田 裕之"
+                "西田　裕之"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5308.html"
@@ -11431,7 +11647,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "箕作 和彦"
+                "箕作　和彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5560.html"
@@ -11445,10 +11661,10 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "中山 留美子",
-                "出口 拓彦",
-                "市来 百合子",
-                "堀 麻佑子"
+                "中山　留美子",
+                "出口　拓彦",
+                "市来　百合子",
+                "堀　麻佑子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6120.html"
@@ -11462,7 +11678,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "粕谷 圭佑"
+                "粕谷　圭佑"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6232.html"
@@ -11476,7 +11692,7 @@ let data = {
                 "木6"
             ],
             "teacher": [
-                "岩本 華子"
+                "岩本　華子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6921.html"
@@ -11490,9 +11706,9 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "立松 麻衣子",
-                "杉山 薫",
-                "村上 睦美"
+                "立松　麻衣子",
+                "杉山　薫",
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1521.html"
@@ -11506,9 +11722,9 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "立松 麻衣子",
-                "杉山 薫",
-                "村上 睦美"
+                "立松　麻衣子",
+                "杉山　薫",
+                "村上　睦美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1551.html"
@@ -11522,10 +11738,24 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "エデソル・ドミニク ガイ"
+                "エデソル・ドミニク　ガイ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1555.html"
+        },
+        {
+            "tt_num": "G3030",
+            "name": "国語科教育学演習Ⅱ",
+            "semester": "後期",
+            "period": [
+                "木7",
+                "木8"
+            ],
+            "teacher": [
+                "米田　猛"
+            ],
+            "credits": 1,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3030.html"
         },
         {
             "tt_num": "G3077",
@@ -11536,10 +11766,24 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "田村 美由紀"
+                "田村　美由紀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3077.html"
+        },
+        {
+            "tt_num": "G3239",
+            "name": "国際理解地域研究",
+            "semester": "後期",
+            "period": [
+                "木7",
+                "木8"
+            ],
+            "teacher": [
+                "門田　守"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3239.html"
         },
         {
             "tt_num": "G3703",
@@ -11550,7 +11794,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "古田 壮宏"
+                "古田　壮宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3703.html"
@@ -11564,7 +11808,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "高木 祥司"
+                "高木　祥司"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3836.html"
@@ -11579,7 +11823,7 @@ let data = {
                 "木9"
             ],
             "teacher": [
-                "山崎 祥子"
+                "山崎　祥子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4284.html"
@@ -11594,9 +11838,9 @@ let data = {
                 "木9"
             ],
             "teacher": [
-                "常田 琢",
-                "松山 豊樹",
-                "中村 元彦"
+                "常田　琢",
+                "松山　豊樹",
+                "中村　元彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4321.html"
@@ -11610,7 +11854,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4516.html"
@@ -11624,8 +11868,8 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "笠次 良爾",
-                "髙木 祐介"
+                "笠次　良爾",
+                "髙木　祐介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5226.html"
@@ -11639,7 +11883,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "世良 啓太"
+                "世良　啓太"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5516.html"
@@ -11653,7 +11897,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "全 有耳"
+                "全　有耳"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5904.html"
@@ -11667,7 +11911,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "巽 善信"
+                "巽　善信"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1001.html"
@@ -11681,8 +11925,8 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "劉 麟玉",
-                "宇田 秀士"
+                "劉　麟玉",
+                "宇田　秀士"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2183.html"
@@ -11696,7 +11940,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "橋本 昭典"
+                "橋本　昭典"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3013.html"
@@ -11710,7 +11954,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "森口 洋一"
+                "森口　洋一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3419.html"
@@ -11724,7 +11968,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "高木 祥司"
+                "高木　祥司"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3727.html"
@@ -11738,7 +11982,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4515.html"
@@ -11752,7 +11996,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4761.html"
@@ -11766,7 +12010,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "狩野 宏明"
+                "狩野　宏明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4845.html"
@@ -11780,7 +12024,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "田附 俊一"
+                "田附　俊一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5211.html"
@@ -11794,7 +12038,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "箕作 和彦"
+                "箕作　和彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5562.html"
@@ -11808,7 +12052,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "石井 僚"
+                "石井　僚"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6277.html"
@@ -11822,7 +12066,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "中山 留美子"
+                "中山　留美子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6282.html"
@@ -11836,7 +12080,7 @@ let data = {
                 "木10"
             ],
             "teacher": [
-                "市来 百合子"
+                "市来　百合子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6319.html"
@@ -11850,7 +12094,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "宇田 秀士"
+                "宇田　秀士"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2061.html"
@@ -11864,7 +12108,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "村上 睦美"
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2104.html"
@@ -11878,12 +12122,12 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "立 正伸",
-                "高橋 豪仁",
-                "笠次 良爾",
-                "井上 邦子",
-                "髙木 祐介",
-                "宮尾 夏姫"
+                "立　正伸",
+                "高橋　豪仁",
+                "笠次　良爾",
+                "井上　邦子",
+                "髙木　祐介",
+                "宮尾　夏姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2232.html"
@@ -11897,7 +12141,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "青木 智史"
+                "青木　智史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4072.html"
@@ -11911,7 +12155,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "平井 國友"
+                "平井　國友"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4276.html"
@@ -11925,7 +12169,7 @@ let data = {
                 "金2"
             ],
             "teacher": [
-                "堀田 千絵"
+                "堀田　千絵"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5933.html"
@@ -11939,7 +12183,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "渡邉 良枝"
+                "渡邉　良枝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1100.html"
@@ -11953,7 +12197,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "廣瀬 聡弥"
+                "廣瀬　聡弥"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2120.html"
@@ -11967,9 +12211,9 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "森本 弘一",
-                "辻野 亮",
-                "舟橋 友香"
+                "森本　弘一",
+                "辻野　亮",
+                "舟橋　友香"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2181.html"
@@ -11983,7 +12227,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "今 正秀"
+                "今　正秀"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3436.html"
@@ -11997,7 +12241,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "松山 豊樹"
+                "松山　豊樹"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4256.html"
@@ -12011,7 +12255,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4758.html"
@@ -12025,7 +12269,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "大山 明彦"
+                "大山　明彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4815.html"
@@ -12039,10 +12283,24 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "山岸 公基"
+                "山岸　公基"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4852.html"
+        },
+        {
+            "tt_num": "G4870",
+            "name": "工芸理論特講",
+            "semester": "後期",
+            "period": [
+                "金3",
+                "金4"
+            ],
+            "teacher": [
+                "原山　健一"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4870.html"
         },
         {
             "tt_num": "G5224",
@@ -12053,7 +12311,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "笠次 良爾"
+                "笠次　良爾"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5224.html"
@@ -12067,7 +12325,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5511.html"
@@ -12081,7 +12339,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "堀田 千絵"
+                "堀田　千絵"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5934.html"
@@ -12095,7 +12353,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6309.html"
@@ -12109,7 +12367,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "堀 麻佑子"
+                "堀　麻佑子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6315.html"
@@ -12123,7 +12381,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "小村 明子"
+                "小村　明子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6521.html"
@@ -12137,7 +12395,7 @@ let data = {
                 "金4"
             ],
             "teacher": [
-                "古田 壮宏"
+                "古田　壮宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6814.html"
@@ -12151,7 +12409,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "古田 壮宏"
+                "古田　壮宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1108.html"
@@ -12165,8 +12423,8 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "高木 祥司",
-                "高橋 亮"
+                "高木　祥司",
+                "高橋　亮"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2030.html"
@@ -12180,10 +12438,10 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "劉 麟玉",
-                "宮田 知絵",
-                "宮内 晴加",
-                "山中 信子"
+                "劉　麟玉",
+                "宮田　知絵",
+                "宮内　晴加",
+                "山中　信子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2054.html"
@@ -12197,36 +12455,10 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "竹内 晋平"
+                "竹内　晋平"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2064.html"
-        },
-        {
-            "tt_num": "G2229",
-            "name": "教科内容研究（理科）",
-            "semester": "後期",
-            "period": [
-                "金5",
-                "金6"
-            ],
-            "teacher": [
-                "石井 俊行",
-                "松井 淳",
-                "石田 正樹",
-                "信川 正順",
-                "梶原 篤",
-                "山崎 祥子",
-                "松山 豊樹",
-                "森本 弘一",
-                "和田 穣隆",
-                "中村 元彦",
-                "藤井 智康",
-                "常田 琢",
-                "小長谷 達郎"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2229.html"
         },
         {
             "tt_num": "G3014",
@@ -12237,10 +12469,24 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "橋本 昭典"
+                "橋本　昭典"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3014.html"
+        },
+        {
+            "tt_num": "G3214",
+            "name": "英米文学史Ⅱ",
+            "semester": "後期",
+            "period": [
+                "金5",
+                "金6"
+            ],
+            "teacher": [
+                "門田　守"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3214.html"
         },
         {
             "tt_num": "G3506",
@@ -12251,7 +12497,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "森 伸宏"
+                "森　伸宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3506.html"
@@ -12265,7 +12511,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3537.html"
@@ -12279,19 +12525,19 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "石井 俊行",
-                "松井 淳",
-                "石田 正樹",
-                "信川 正順",
-                "梶原 篤",
-                "山崎 祥子",
-                "松山 豊樹",
-                "森本 弘一",
-                "和田 穣隆",
-                "中村 元彦",
-                "藤井 智康",
-                "常田 琢",
-                "小長谷 達郎"
+                "石井　俊行",
+                "松井　淳",
+                "石田　正樹",
+                "信川　正順",
+                "梶原　篤",
+                "山崎　祥子",
+                "松山　豊樹",
+                "森本　弘一",
+                "和田　穣隆",
+                "中村　元彦",
+                "藤井　智康",
+                "常田　琢",
+                "小長谷　達郎"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4009.html"
@@ -12305,7 +12551,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "中村 元彦"
+                "中村　元彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4012.html"
@@ -12319,7 +12565,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "奥田 尚子"
+                "奥田　尚子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4733.html"
@@ -12333,7 +12579,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4766.html"
@@ -12347,10 +12593,38 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "原山 健一"
+                "原山　健一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4863.html"
+        },
+        {
+            "tt_num": "G5541",
+            "name": "情報概論",
+            "semester": "後期",
+            "period": [
+                "金5",
+                "金6"
+            ],
+            "teacher": [
+                "薮　哲郎"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5541.html"
+        },
+        {
+            "tt_num": "G5765",
+            "name": "家庭看護学（実習を含む。）",
+            "semester": "後期",
+            "period": [
+                "金5",
+                "金6"
+            ],
+            "teacher": [
+                "中川　愛"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5765.html"
         },
         {
             "tt_num": "G6241",
@@ -12361,7 +12635,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "山中 矢展"
+                "山中　矢展"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6241.html"
@@ -12375,7 +12649,7 @@ let data = {
                 "金6"
             ],
             "teacher": [
-                "新谷 遥"
+                "新谷　遥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6546.html"
@@ -12389,7 +12663,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "渡邉 良枝"
+                "渡邉　良枝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1150.html"
@@ -12403,7 +12677,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "吉次 豊見"
+                "吉次　豊見"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2185.html"
@@ -12417,10 +12691,24 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "有馬 義貴"
+                "有馬　義貴"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3058.html"
+        },
+        {
+            "tt_num": "G3216",
+            "name": "英米文学作品研究",
+            "semester": "後期",
+            "period": [
+                "金7",
+                "金8"
+            ],
+            "teacher": [
+                "門田　守"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3216.html"
         },
         {
             "tt_num": "G3259",
@@ -12431,7 +12719,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "アムンルド トーマス"
+                "アムンルド　トーマス"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3259.html"
@@ -12445,7 +12733,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "森 伸宏"
+                "森　伸宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3503.html"
@@ -12459,7 +12747,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "高橋 亮"
+                "高橋　亮"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3771.html"
@@ -12473,7 +12761,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "信川 正順"
+                "信川　正順"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4102.html"
@@ -12487,7 +12775,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "中村 元彦"
+                "中村　元彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4257.html"
@@ -12501,7 +12789,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "北條 美香代"
+                "北條　美香代"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4512.html"
@@ -12515,7 +12803,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "井上 邦子"
+                "井上　邦子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5231.html"
@@ -12529,10 +12817,24 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "箕作 和彦"
+                "箕作　和彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5544.html"
+        },
+        {
+            "tt_num": "G5552",
+            "name": "電気回路学",
+            "semester": "後期",
+            "period": [
+                "金7",
+                "金8"
+            ],
+            "teacher": [
+                "薮　哲郎"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5552.html"
         },
         {
             "tt_num": "G5731",
@@ -12545,7 +12847,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "村上 睦美"
+                "村上　睦美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5731.html"
@@ -12561,7 +12863,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "木林 有理子"
+                "木林　有理子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5776.html"
@@ -12575,7 +12877,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "森脇 勤"
+                "森脇　勤"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5957.html"
@@ -12589,7 +12891,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "廣瀬 聡弥"
+                "廣瀬　聡弥"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6104.html"
@@ -12603,9 +12905,9 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "中山 留美子",
-                "出口 拓彦",
-                "石井 僚"
+                "中山　留美子",
+                "出口　拓彦",
+                "石井　僚"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6291.html"
@@ -12619,7 +12921,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "片岡 弘勝"
+                "片岡　弘勝"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6305.html"
@@ -12633,7 +12935,7 @@ let data = {
                 "金8"
             ],
             "teacher": [
-                "新谷 遥"
+                "新谷　遥"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6547.html"
@@ -12647,7 +12949,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "吉次 豊見"
+                "吉次　豊見"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2180.html"
@@ -12661,7 +12963,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "梶尾 悠史"
+                "梶尾　悠史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3403.html"
@@ -12675,7 +12977,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "森 伸宏"
+                "森　伸宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3504.html"
@@ -12689,7 +12991,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "高橋 亮"
+                "高橋　亮"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3779.html"
@@ -12703,7 +13005,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "竹内 直"
+                "竹内　直"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4530.html"
@@ -12717,7 +13019,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "奥田 尚子"
+                "奥田　尚子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4635.html"
@@ -12731,7 +13033,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "前田 則子"
+                "前田　則子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4762.html"
@@ -12745,10 +13047,24 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "谷口 義昭"
+                "谷口　義昭"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5504.html"
+        },
+        {
+            "tt_num": "G5924",
+            "name": "障害児心理学演習",
+            "semester": "後期",
+            "period": [
+                "金9",
+                "金10"
+            ],
+            "teacher": [
+                "今泉　祥子"
+            ],
+            "credits": 2,
+            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5924.html"
         },
         {
             "tt_num": "G6537",
@@ -12759,7 +13075,7 @@ let data = {
                 "金10"
             ],
             "teacher": [
-                "阪村 圭英子"
+                "阪村　圭英子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6537.html"
@@ -12772,7 +13088,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "青木 智史"
+                "青木　智史"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1005.html"
@@ -12785,7 +13101,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "山本 貴子"
+                "山本　貴子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1104.html"
@@ -12798,7 +13114,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "山本 貴子"
+                "山本　貴子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1154.html"
@@ -12811,7 +13127,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "藤崎 亜由子"
+                "藤崎　亜由子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2187.html"
@@ -12824,9 +13140,9 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "笠次 良爾",
-                "辻井 啓之",
-                "髙木 祐介"
+                "笠次　良爾",
+                "辻井　啓之",
+                "髙木　祐介"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2216.html"
@@ -12839,10 +13155,10 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "劉 麟玉",
-                "前田 則子",
-                "北條 美香代",
-                "水野 亜歴"
+                "劉　麟玉",
+                "前田　則子",
+                "北條　美香代",
+                "水野　亜歴"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G2230.html"
@@ -12868,7 +13184,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "登谷 伸宏"
+                "登谷　伸宏"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3548.html"
@@ -12881,7 +13197,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "金原 正明"
+                "金原　正明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3549.html"
@@ -12894,7 +13210,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "橋本 要"
+                "橋本　要"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3806.html"
@@ -12907,12 +13223,12 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "高木 祥司",
-                "伊藤 直治",
-                "高橋 亮",
-                "川崎 謙一郎",
-                "近藤 裕",
-                "舟橋 友香"
+                "高木　祥司",
+                "伊藤　直治",
+                "高橋　亮",
+                "川崎　謙一郎",
+                "近藤　裕",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3843.html"
@@ -12925,12 +13241,12 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "川崎 謙一郎",
-                "伊藤 直治",
-                "高橋 亮",
-                "近藤 裕",
-                "高木 祥司",
-                "舟橋 友香"
+                "川崎　謙一郎",
+                "伊藤　直治",
+                "高橋　亮",
+                "近藤　裕",
+                "高木　祥司",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3845.html"
@@ -12943,7 +13259,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "金原 正明"
+                "金原　正明"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4074.html"
@@ -12956,7 +13272,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "丸尾 雅啓"
+                "丸尾　雅啓"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4231.html"
@@ -12969,7 +13285,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "下村 通誉"
+                "下村　通誉"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4356.html"
@@ -12995,7 +13311,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "水野 亜歴"
+                "水野　亜歴"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4764.html"
@@ -13008,7 +13324,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "岡 岩太郎"
+                "岡　岩太郎"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4874.html"
@@ -13021,7 +13337,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "井手本 貴子"
+                "井手本　貴子"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4878.html"
@@ -13034,7 +13350,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "吉田 幸代"
+                "吉田　幸代"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4882.html"
@@ -13047,7 +13363,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "江藤 亮"
+                "江藤　亮"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G4883.html"
@@ -13086,7 +13402,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "瀨川 賢一"
+                "瀨川　賢一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5022.html"
@@ -13099,9 +13415,9 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "立 正伸",
-                "黒澤 毅",
-                "若吉 浩二"
+                "立　正伸",
+                "黒澤　毅",
+                "若吉　浩二"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5292.html"
@@ -13114,7 +13430,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "兒玉 友"
+                "兒玉　友"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5303.html"
@@ -13127,7 +13443,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "冨岡 公子"
+                "冨岡　公子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5312.html"
@@ -13140,7 +13456,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "井上 寛一"
+                "井上　寛一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5314.html"
@@ -13153,7 +13469,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "木村 洋子"
+                "木村　洋子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5315.html"
@@ -13166,7 +13482,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "山本 桂子"
+                "山本　桂子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5564.html"
@@ -13179,7 +13495,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "池田 仁美"
+                "池田　仁美"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5774.html"
@@ -13192,7 +13508,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "中井 弘征"
+                "中井　弘征"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5912.html"
@@ -13205,7 +13521,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "中井 弘征"
+                "中井　弘征"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5917.html"
@@ -13218,7 +13534,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "趙 没名"
+                "趙　没名"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5955.html"
@@ -13231,7 +13547,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "森下 勇"
+                "森下　勇"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5958.html"
@@ -13244,7 +13560,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "越野 和之"
+                "越野　和之"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5964.html"
@@ -13257,7 +13573,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "竹島 克典"
+                "竹島　克典"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6296.html"
@@ -13270,7 +13586,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "岡本 真彦"
+                "岡本　真彦"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6312.html"
@@ -13283,7 +13599,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "諏訪 晃一"
+                "諏訪　晃一"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6314.html"
@@ -13296,26 +13612,10 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "生田 周二"
+                "生田　周二"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G6321.html"
-        },
-        {
-            "tt_num": "G8074",
-            "name": "保育実習（保育所Ⅱ）",
-            "semester": "後期",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "残華 雅子",
-                "横山 真貴子",
-                "廣瀬 聡弥",
-                "大西 賢治"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8074.html"
         },
         {
             "tt_num": "G8075",
@@ -13326,8 +13626,8 @@ let data = {
             ],
             "teacher": [
                 "担当教員未定",
-                "横山 真貴子",
-                "佐川 早季子"
+                "横山　真貴子",
+                "佐川　早季子"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8075.html"
@@ -13340,7 +13640,7 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "粕谷 貴志"
+                "粕谷　貴志"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9980.html"
@@ -13353,22 +13653,22 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松山 豊樹",
-                "松井 淳",
-                "伊藤 直治",
-                "石田 正樹",
-                "信川 正順",
-                "高橋 亮",
-                "山崎 祥子",
-                "和田 穣隆",
-                "川崎 謙一郎",
-                "藤井 智康",
-                "常田 琢",
-                "近藤 裕",
-                "片岡 佐知子",
-                "高木 祥司",
-                "小川 泰朗",
-                "舟橋 友香"
+                "松山　豊樹",
+                "松井　淳",
+                "伊藤　直治",
+                "石田　正樹",
+                "信川　正順",
+                "高橋　亮",
+                "山崎　祥子",
+                "和田　穣隆",
+                "川崎　謙一郎",
+                "藤井　智康",
+                "常田　琢",
+                "近藤　裕",
+                "片岡　佐知子",
+                "高木　祥司",
+                "小川　泰朗",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9985.html"
@@ -13381,22 +13681,22 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松山 豊樹",
-                "松井 淳",
-                "伊藤 直治",
-                "石田 正樹",
-                "信川 正順",
-                "高橋 亮",
-                "山崎 祥子",
-                "和田 穣隆",
-                "川崎 謙一郎",
-                "藤井 智康",
-                "常田 琢",
-                "近藤 裕",
-                "片岡 佐知子",
-                "高木 祥司",
-                "小川 泰朗",
-                "舟橋 友香"
+                "松山　豊樹",
+                "松井　淳",
+                "伊藤　直治",
+                "石田　正樹",
+                "信川　正順",
+                "高橋　亮",
+                "山崎　祥子",
+                "和田　穣隆",
+                "川崎　謙一郎",
+                "藤井　智康",
+                "常田　琢",
+                "近藤　裕",
+                "片岡　佐知子",
+                "高木　祥司",
+                "小川　泰朗",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9987.html"
@@ -13409,22 +13709,22 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "松山 豊樹",
-                "松井 淳",
-                "伊藤 直治",
-                "石田 正樹",
-                "信川 正順",
-                "高橋 亮",
-                "山崎 祥子",
-                "和田 穣隆",
-                "川崎 謙一郎",
-                "藤井 智康",
-                "常田 琢",
-                "近藤 裕",
-                "片岡 佐知子",
-                "高木 祥司",
-                "小川 泰朗",
-                "舟橋 友香"
+                "松山　豊樹",
+                "松井　淳",
+                "伊藤　直治",
+                "石田　正樹",
+                "信川　正順",
+                "高橋　亮",
+                "山崎　祥子",
+                "和田　穣隆",
+                "川崎　謙一郎",
+                "藤井　智康",
+                "常田　琢",
+                "近藤　裕",
+                "片岡　佐知子",
+                "高木　祥司",
+                "小川　泰朗",
+                "舟橋　友香"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9989.html"
@@ -13438,7 +13738,7 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "エデソル・ドミニク ガイ"
+                "エデソル・ドミニク　ガイ"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1552.html"
@@ -13452,9 +13752,9 @@ let data = {
                 "木8"
             ],
             "teacher": [
-                "立松 麻衣子",
-                "杉山 薫",
-                "村上 睦美"
+                "立松　麻衣子",
+                "杉山　薫",
+                "村上　睦美"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1556.html"
@@ -13467,8 +13767,8 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "金原 正明",
-                "巽 善信"
+                "金原　正明",
+                "巽　善信"
             ],
             "credits": 3,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G1003.html"
@@ -13481,8 +13781,8 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "河本 大地",
-                "根田 克彦"
+                "河本　大地",
+                "根田　克彦"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G3520.html"
@@ -13495,9 +13795,9 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "高橋 豪仁",
-                "井上 邦子",
-                "宮尾 夏姫"
+                "高橋　豪仁",
+                "井上　邦子",
+                "宮尾　夏姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5294.html"
@@ -13510,12 +13810,12 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "立 正伸",
-                "高橋 豪仁",
-                "笠次 良爾",
-                "井上 邦子",
-                "髙木 祐介",
-                "宮尾 夏姫"
+                "立　正伸",
+                "高橋　豪仁",
+                "笠次　良爾",
+                "井上　邦子",
+                "髙木　祐介",
+                "宮尾　夏姫"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G5301.html"
@@ -13528,10 +13828,10 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "残華 雅子",
-                "横山 真貴子",
-                "廣瀬 聡弥",
-                "大西 賢治"
+                "残華　雅子",
+                "横山　真貴子",
+                "廣瀬　聡弥",
+                "大西　賢治"
             ],
             "credits": 2,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8071.html"
@@ -13544,378 +13844,13 @@ let data = {
                 "集中"
             ],
             "teacher": [
-                "残華 雅子",
-                "横山 真貴子",
-                "廣瀬 聡弥",
-                "大西 賢治"
+                "残華　雅子",
+                "横山　真貴子",
+                "廣瀬　聡弥",
+                "大西　賢治"
             ],
             "credits": 1,
             "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G8076.html"
-        },
-        {
-            "tt_num": "G9979",
-            "name": "学校支援実践",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "柿本 篤子",
-                "竹村 謙司"
-            ],
-            "credits": 2,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9979.html"
-        },
-        {
-            "tt_num": "G9001",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "赤沢 早人"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9001.html"
-        },
-        {
-            "tt_num": "G9002",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "生田 周二"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9002.html"
-        },
-        {
-            "tt_num": "G9003",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "板橋 孝幸"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9003.html"
-        },
-        {
-            "tt_num": "G9004",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "片岡 弘勝"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9004.html"
-        },
-        {
-            "tt_num": "G9005",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "橋崎 頼子"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9005.html"
-        },
-        {
-            "tt_num": "G9006",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "市来 百合子"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9006.html"
-        },
-        {
-            "tt_num": "G9007",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "出口 拓彦"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9007.html"
-        },
-        {
-            "tt_num": "G9008",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "中山 留美子"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9008.html"
-        },
-        {
-            "tt_num": "G9009",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "横山 真貴子"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9009.html"
-        },
-        {
-            "tt_num": "G9010",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "廣瀬 聡弥"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9010.html"
-        },
-        {
-            "tt_num": "G9011",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "木下 理恵"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9011.html"
-        },
-        {
-            "tt_num": "G9012",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "越野 和之"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9012.html"
-        },
-        {
-            "tt_num": "G9013",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "根來 秀樹"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9013.html"
-        },
-        {
-            "tt_num": "G9014",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "堀田 千絵"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9014.html"
-        },
-        {
-            "tt_num": "G9015",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "富井 奈菜実"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9015.html"
-        },
-        {
-            "tt_num": "G9016",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "棚橋 尚子"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9016.html"
-        },
-        {
-            "tt_num": "G9017",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "橋本 昭典"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9017.html"
-        },
-        {
-            "tt_num": "G9018",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "日高 佳紀"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9018.html"
-        },
-        {
-            "tt_num": "G9019",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "前田 広幸"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9019.html"
-        },
-        {
-            "tt_num": "G9020",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "有馬 義貴"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9020.html"
-        },
-        {
-            "tt_num": "G9021",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "今 正秀"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9021.html"
-        },
-        {
-            "tt_num": "G9022",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "根田 克彦"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9022.html"
-        },
-        {
-            "tt_num": "G9039",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "藤井 智康"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9039.html"
-        },
-        {
-            "tt_num": "G9048",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "前田 則子"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9048.html"
-        },
-        {
-            "tt_num": "G9053",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "大山 明彦"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9053.html"
-        },
-        {
-            "tt_num": "G9059",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "高橋 豪仁"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9059.html"
-        },
-        {
-            "tt_num": "G9073",
-            "name": "卒業論文",
-            "semester": "通年",
-            "period": [
-                "集中"
-            ],
-            "teacher": [
-                "米倉 陽子"
-            ],
-            "credits": 6,
-            "page": "https://www.nara-edu.ac.jp/ADMIN/KYOUMU/syllabus/2021/detail/2021_01_G9073.html"
         }
     ]
 };
